@@ -1,0 +1,725 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '2':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '3':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '4':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '5':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '6':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '7':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '8':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '9':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '10':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '11':
+        material: WHITE_HARNESS
+        buy: 1500
+        displayname: '&fArnés Blanco'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '12':
+        material: LIGHT_GRAY_HARNESS
+        buy: 1500
+        displayname: '&fArnés Gris Claro'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '13':
+        material: GRAY_HARNESS
+        buy: 1500
+        displayname: '&fArnés Gris'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '14':
+        material: BLACK_HARNESS
+        buy: 1500
+        displayname: '&fArnés Negro'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '15':
+        material: RED_HARNESS
+        buy: 1500
+        displayname: '&fArnés Rojo'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '16':
+        material: ORANGE_HARNESS
+        buy: 1500
+        displayname: '&fArnés Naranja'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '17':
+        material: YELLOW_HARNESS
+        buy: 1500
+        displayname: '&fArnés Amarillo'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '18':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '19':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '20':
+        material: LIME_HARNESS
+        buy: 1500
+        displayname: '&fArnés Verde Lima'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '21':
+        material: GREEN_HARNESS
+        buy: 1500
+        displayname: '&fArnés Verde'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '22':
+        material: CYAN_HARNESS
+        buy: 1500
+        displayname: '&fArnés Cian'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '23':
+        material: BLUE_HARNESS
+        buy: 1500
+        displayname: '&fArnés Azul'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '24':
+        material: PURPLE_HARNESS
+        buy: 1500
+        displayname: '&fArnés Morado'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '25':
+        material: MAGENTA_HARNESS
+        buy: 1500
+        displayname: '&fArnés Magenta'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '26':
+        material: PINK_HARNESS
+        buy: 1500
+        displayname: '&fArnés Rosado'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '27':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '28':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '29':
+        material: BROWN_HARNESS
+        buy: 1500
+        displayname: '&fArnés Marrón'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '30':
+        material: BROWN_HARNESS
+        buy: 1500
+        displayname: '&fArnés Marrón'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '31':
+        material: DRIED_GHAST
+        buy: 2500
+        displayname: '&fGhast Seco'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$2,500 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '32':
+        material: CLOSED_EYEBLOSSOM
+        buy: 100
+        displayname: '&fMiraflor cerrada'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '33':
+        material: OPEN_EYEBLOSSOM
+        buy: 100
+        displayname: '&fMiraflor abierta'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '34':
+        material: PALE_OAK_LOG
+        buy: 150
+        displayname: '&fTronco de roble pálido'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$150 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '35':
+        material: PALE_OAK_WOOD
+        buy: 50
+        displayname: '&fMadera de roble pálido'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$50 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '36':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '37':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '38':
+        material: STRIPPED_PALE_OAK_LOG
+        buy: 50
+        displayname: '&fTronco de roble pálido sin corteza'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$50 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '39':
+        material: STRIPPED_PALE_OAK_WOOD
+        buy: 50
+        displayname: '&f&fMadera de roble pálido sin corteza'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$50 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '40':
+        material: PALE_OAK_PLANKS
+        buy: 50
+        displayname: '&fMadera de roble pálido'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$50 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '41':
+        material: PALE_OAK_STAIRS
+        buy: 50
+        displayname: '&fEscalera de roble pálido'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$50 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '42':
+        material: PALE_OAK_SLAB
+        buy: 50
+        displayname: '&fLosa de roble pálido'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$50 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '43':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '44':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '45':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+  page2:
+    items:
+      '1':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '2':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '3':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '4':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '5':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '6':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '7':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '8':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '9':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '10':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '11':
+        material: GOAT_HORN
+        displayname: '&fCuerno de Cabra - &aPonder'
+        custom_model_data: 1
+        buy: 100000
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '12':
+        material: GOAT_HORN
+        displayname: '&fCuerno de Cabra - &aSing'
+        custom_model_data: 2
+        buy: 100000
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '13':
+        material: GOAT_HORN
+        displayname: '&fCuerno de Cabra - &aSeek'
+        custom_model_data: 3
+        buy: 100000
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '14':
+        material: GOAT_HORN
+        displayname: '&fCuerno de Cabra - &aFeel'
+        custom_model_data: 4
+        buy: 100000
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '15':
+        material: GOAT_HORN
+        displayname: '&fCuerno de Cabra - &aAdmire'
+        custom_model_data: 5
+        buy: 100000
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '16':
+        material: GOAT_HORN
+        displayname: '&fCuerno de Cabra - &aCall'
+        custom_model_data: 6
+        buy: 100000
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '17':
+        material: GOAT_HORN
+        displayname: '&fCuerno de Cabra - &aYearn'
+        custom_model_data: 7
+        buy: 100000
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '18':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '19':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '20':
+        material: GOAT_HORN
+        displayname: '&fCuerno de Cabra - &aDream'
+        custom_model_data: 8
+        buy: 100000
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fNovedades 1.21'
+        sell: -1
+      '21':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '22':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '23':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '24':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '25':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '26':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '27':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '28':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '29':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '30':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '31':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '32':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '33':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '34':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '35':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '36':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '37':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '38':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '39':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '40':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '41':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '42':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '43':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '44':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '45':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''

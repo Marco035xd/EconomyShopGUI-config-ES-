@@ -1,0 +1,389 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '2':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '3':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '4':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '5':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '6':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '7':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '8':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '9':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '10':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '11':
+        material: NETHERITE_UPGRADE_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Mejora de herrería)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '12':
+        material: DUNE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Ornamento de dunas)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '13':
+        material: COAST_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Ornamento de costa)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '14':
+        material: WILD_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Ornamento salvaje)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '15':
+        material: WARD_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Ornamento de guardián)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '16':
+        material: EYE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Ornamento de ojo)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '17':
+        material: VEX_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Ornamento de vex)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '18':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '20':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '21':
+        material: RIB_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Ornamento de costillas)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '22':
+        material: SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Ornamento de centinela)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '23':
+        material: SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Ornamento de hocico)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '24':
+        material: SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Ornamento de aguja)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '25':
+        material: TIDE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Ornamento de marea)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '26':
+        material: WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Ornamento de guía)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '27':
+        material: SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 5000000
+        displayname: '&fPlantilla de herrería &8(Ornamento del silencio)'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+        sell: -1
+      '28':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '29':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '30':
+        material: TORCHFLOWER
+        buy: 450000
+        sell: 120
+        displayname: '&fAnflorcha'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$450,000 &6⛃'
+        - '&fVenta &e$120 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+      '31':
+        material: TORCHFLOWER_SEEDS
+        buy: 300000
+        sell: 80
+        displayname: '&fSemillas de anflorcha'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$300,000 &6⛃'
+        - '&fVenta &e$80 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+      '32':
+        material: PITCHER_POD
+        buy: 550000
+        sell: 140
+        displayname: '&fEspiga de planta odre'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$550,000 &6⛃'
+        - '&fVenta &e$140 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+      '33':
+        material: PITCHER_PLANT
+        buy: 500000
+        sell: 130
+        displayname: '&fPlanta odre'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$500,000 &6⛃'
+        - '&fVenta &e$130 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+      '34':
+        material: BRUSH
+        buy: 400000
+        sell: -1
+        displayname: '&fBrocha'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$400,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fObjetos 1.20'
+      '35':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '36':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '37':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '38':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '39':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '40':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '41':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '42':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '43':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '44':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '45':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '46':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''

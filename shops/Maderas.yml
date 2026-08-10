@@ -1,0 +1,1574 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '2':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '3':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '4':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '5':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '6':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '7':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '8':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '9':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '10':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '11':
+        material: OAK_LOG
+        displayname: '&fLeño de Roble'
+        buy: 40
+        sell: 20
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '12':
+        material: SPRUCE_LOG
+        displayname: '&fLeño de Abeto'
+        buy: 40
+        sell: 20
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '13':
+        material: BIRCH_LOG
+        displayname: '&fLeño de Abedul'
+        buy: 40
+        sell: 20
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '14':
+        material: JUNGLE_LOG
+        displayname: '&fLeño de Jungla'
+        buy: 40
+        sell: 20
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '15':
+        material: ACACIA_LOG
+        displayname: '&fLeño de Acacia'
+        buy: 40
+        sell: 20
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '16':
+        material: DARK_OAK_LOG
+        displayname: '&fLeño de Roble Oscuro'
+        buy: 40
+        sell: 20
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '17':
+        material: MANGROVE_LOG
+        displayname: '&fLeño de Manglar'
+        buy: 40
+        sell: 20
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '18':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '19':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '20':
+        material: CHERRY_LOG
+        displayname: '&fLeño de Cerezo'
+        buy: 40
+        sell: 20
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '21':
+        material: CRIMSON_STEM
+        displayname: '&fTallo Carmesí'
+        buy: 45
+        sell: 22
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$45 &6⛃'
+        - '&fVenta &e$22 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '22':
+        material: WARPED_STEM
+        displayname: '&fTallo Distorsionado'
+        buy: 45
+        sell: 22
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$45 &6⛃'
+        - '&fVenta &e$22 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '23':
+        material: OAK_PLANKS
+        displayname: '&fMadera de Roble'
+        buy: 18
+        sell: 9
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$18 &6⛃'
+        - '&fVenta &e$9 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '24':
+        material: SPRUCE_PLANKS
+        displayname: '&fMadera de Abeto'
+        buy: 18
+        sell: 9
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$18 &6⛃'
+        - '&fVenta &e$9 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '25':
+        material: BIRCH_PLANKS
+        displayname: '&fMadera de Abedul'
+        buy: 18
+        sell: 9
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$18 &6⛃'
+        - '&fVenta &e$9 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '26':
+        material: JUNGLE_PLANKS
+        displayname: '&fMadera de Jungla'
+        buy: 18
+        sell: 9
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$18 &6⛃'
+        - '&fVenta &e$9 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '27':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '28':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '29':
+        material: ACACIA_PLANKS
+        displayname: '&fMadera de Acacia'
+        buy: 18
+        sell: 9
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$18 &6⛃'
+        - '&fVenta &e$9 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '30':
+        material: DARK_OAK_PLANKS
+        displayname: '&fMadera de Roble Oscuro'
+        buy: 18
+        sell: 9
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$18 &6⛃'
+        - '&fVenta &e$9 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '31':
+        material: MANGROVE_PLANKS
+        displayname: '&fMadera de Manglar'
+        buy: 18
+        sell: 9
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$18 &6⛃'
+        - '&fVenta &e$9 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '32':
+        material: CHERRY_PLANKS
+        displayname: '&fMadera de Cerezo'
+        buy: 18
+        sell: 9
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$18 &6⛃'
+        - '&fVenta &e$9 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '33':
+        material: CRIMSON_PLANKS
+        displayname: '&fMadera Carmesí'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '34':
+        material: WARPED_PLANKS
+        displayname: '&fMadera Distorsionada'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '35':
+        material: OAK_SLAB
+        displayname: '&fLosa de Roble'
+        buy: 15
+        sell: 7
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$15 &6⛃'
+        - '&fVenta &e$7 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '36':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '37':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '38':
+        material: SPRUCE_SLAB
+        displayname: '&fLosa de Abeto'
+        buy: 15
+        sell: 7
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$15 &6⛃'
+        - '&fVenta &e$7 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '39':
+        material: BIRCH_SLAB
+        displayname: '&fLosa de Abedul'
+        buy: 15
+        sell: 7
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$15 &6⛃'
+        - '&fVenta &e$7 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '40':
+        material: JUNGLE_SLAB
+        displayname: '&fLosa de Jungla'
+        buy: 15
+        sell: 7
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$15 &6⛃'
+        - '&fVenta &e$7 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '41':
+        material: ACACIA_SLAB
+        displayname: '&fLosa de Acacia'
+        buy: 15
+        sell: 7
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$15 &6⛃'
+        - '&fVenta &e$7 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '42':
+        material: DARK_OAK_SLAB
+        displayname: '&fLosa de Roble Oscuro'
+        buy: 15
+        sell: 7
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$15 &6⛃'
+        - '&fVenta &e$7 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '43':
+        material: MANGROVE_SLAB
+        displayname: '&fLosa de Manglar'
+        buy: 15
+        sell: 7
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$15 &6⛃'
+        - '&fVenta &e$7 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '44':
+        material: CHERRY_SLAB
+        displayname: '&fLosa de Cerezo'
+        buy: 15
+        sell: 7
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$15 &6⛃'
+        - '&fVenta &e$7 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '45':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+  page2:
+    items:
+      '1':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '2':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '3':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '4':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '5':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '6':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '7':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '8':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '9':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '10':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '11':
+        material: CRIMSON_SLAB
+        displayname: '&fLosa Carmesí'
+        buy: 17
+        sell: 8
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$17 &6⛃'
+        - '&fVenta &e$8 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '12':
+        material: WARPED_SLAB
+        displayname: '&fLosa Distorsionada'
+        buy: 17
+        sell: 8
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$17 &6⛃'
+        - '&fVenta &e$8 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '13':
+        material: OAK_STAIRS
+        displayname: '&fEscaleras de Roble'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '14':
+        material: SPRUCE_STAIRS
+        displayname: '&fEscaleras de Abeto'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '15':
+        material: BIRCH_STAIRS
+        displayname: '&fEscaleras de Abedul'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '16':
+        material: JUNGLE_STAIRS
+        displayname: '&fEscaleras de Jungla'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '17':
+        material: ACACIA_STAIRS
+        displayname: '&fEscaleras de Acacia'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '18':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '19':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '20':
+        material: DARK_OAK_STAIRS
+        displayname: '&fEscaleras de Roble Oscuro'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '21':
+        material: MANGROVE_STAIRS
+        displayname: '&fEscaleras de Manglar'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '22':
+        material: CHERRY_STAIRS
+        displayname: '&fEscaleras de Cerezo'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '23':
+        material: CRIMSON_STAIRS
+        displayname: '&fEscaleras Carmesí'
+        buy: 22
+        sell: 11
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$22 &6⛃'
+        - '&fVenta &e$11 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '24':
+        material: WARPED_STAIRS
+        displayname: '&fEscaleras Distorsionadas'
+        buy: 22
+        sell: 11
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$22 &6⛃'
+        - '&fVenta &e$11 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '25':
+        material: OAK_TRAPDOOR
+        displayname: '&fTrampilla de Roble'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '26':
+        material: SPRUCE_TRAPDOOR
+        displayname: '&fTrampilla de Abeto'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '27':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '28':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '29':
+        material: BIRCH_TRAPDOOR
+        displayname: '&fTrampilla de Abedul'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '30':
+        material: JUNGLE_TRAPDOOR
+        displayname: '&fTrampilla de Jungla'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '31':
+        material: ACACIA_TRAPDOOR
+        displayname: '&fTrampilla de Acacia'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '32':
+        material: DARK_OAK_TRAPDOOR
+        displayname: '&fTrampilla de Roble Oscuro'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '33':
+        material: MANGROVE_TRAPDOOR
+        displayname: '&fTrampilla de Manglar'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '34':
+        material: CHERRY_TRAPDOOR
+        displayname: '&fTrampilla de Cerezo'
+        buy: 20
+        sell: 10
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$10 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '35':
+        material: CRIMSON_TRAPDOOR
+        displayname: '&fTrampilla Carmesí'
+        buy: 22
+        sell: 11
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$22 &6⛃'
+        - '&fVenta &e$11 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '36':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '37':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '38':
+        material: WARPED_TRAPDOOR
+        displayname: '&fTrampilla Distorsionada'
+        buy: 22
+        sell: 11
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$22 &6⛃'
+        - '&fVenta &e$11 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '39':
+        material: OAK_DOOR
+        displayname: '&fPuerta de Roble'
+        buy: 60
+        sell: 15
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$60 &6⛃'
+        - '&fVenta &e$15 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '40':
+        material: SPRUCE_DOOR
+        displayname: '&fPuerta de Abeto'
+        buy: 70
+        sell: 18
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$70 &6⛃'
+        - '&fVenta &e$18 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '41':
+        material: BIRCH_DOOR
+        displayname: '&fPuerta de Abedul'
+        buy: 60
+        sell: 15
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$60 &6⛃'
+        - '&fVenta &e$15 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '42':
+        material: JUNGLE_DOOR
+        displayname: '&fPuerta de Jungla'
+        buy: 65
+        sell: 16
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$65 &6⛃'
+        - '&fVenta &e$16 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '43':
+        material: ACACIA_DOOR
+        displayname: '&fPuerta de Acacia'
+        buy: 70
+        sell: 18
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$70 &6⛃'
+        - '&fVenta &e$18 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '44':
+        material: DARK_OAK_DOOR
+        displayname: '&fPuerta de Roble Oscuro'
+        buy: 75
+        sell: 20
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$75 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '45':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+  page3:
+    items:
+      '1':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '2':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '3':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '4':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '5':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '6':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '7':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '8':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '9':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '10':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '11':
+        material: MANGROVE_DOOR
+        displayname: '&fPuerta de Manglar'
+        buy: 70
+        sell: 18
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$70 &6⛃'
+        - '&fVenta &e$18 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '12':
+        material: CHERRY_DOOR
+        displayname: '&fPuerta de Cerezo'
+        buy: 75
+        sell: 20
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$75 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '13':
+        material: BAMBOO_DOOR
+        displayname: '&fPuerta de Bambú'
+        buy: 80
+        sell: 20
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '14':
+        material: CRIMSON_DOOR
+        displayname: '&fPuerta Carmesí'
+        buy: 85
+        sell: 22
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$85 &6⛃'
+        - '&fVenta &e$22 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '15':
+        material: WARPED_DOOR
+        displayname: '&fPuerta Distorsionada'
+        buy: 85
+        sell: 22
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$85 &6⛃'
+        - '&fVenta &e$22 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '16':
+        material: OAK_FENCE
+        displayname: '&fValla de Roble'
+        buy: 25
+        sell: 12
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &e$12 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '17':
+        material: SPRUCE_FENCE
+        displayname: '&fValla de Abeto'
+        buy: 25
+        sell: 12
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &e$12 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '18':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '19':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '20':
+        material: BIRCH_FENCE
+        displayname: '&fValla de Abedul'
+        buy: 25
+        sell: 12
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &e$12 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '21':
+        material: JUNGLE_FENCE
+        displayname: '&fValla de Jungla'
+        buy: 25
+        sell: 12
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &e$12 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '22':
+        material: ACACIA_FENCE
+        displayname: '&fValla de Acacia'
+        buy: 25
+        sell: 12
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &e$12 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '23':
+        material: DARK_OAK_FENCE
+        displayname: '&fValla de Roble Oscuro'
+        buy: 25
+        sell: 12
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &e$12 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '24':
+        material: MANGROVE_FENCE
+        displayname: '&fValla de Manglar'
+        buy: 25
+        sell: 12
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &e$12 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '25':
+        material: CHERRY_FENCE
+        displayname: '&fValla de Cerezo'
+        buy: 25
+        sell: 12
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &e$12 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '26':
+        material: BAMBOO_FENCE
+        displayname: '&fValla de Bambú'
+        buy: 28
+        sell: 14
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$28 &6⛃'
+        - '&fVenta &e$14 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '27':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '28':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '29':
+        material: CRIMSON_FENCE
+        displayname: '&fValla Carmesí'
+        buy: 28
+        sell: 14
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$28 &6⛃'
+        - '&fVenta &e$14 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '30':
+        material: WARPED_FENCE
+        displayname: '&fValla Distorsionada'
+        buy: 28
+        sell: 14
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$28 &6⛃'
+        - '&fVenta &e$14 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '31':
+        material: OAK_FENCE_GATE
+        displayname: '&fPuerta de Valla de Roble'
+        buy: 30
+        sell: 15
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$15 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '32':
+        material: SPRUCE_FENCE_GATE
+        displayname: '&fPuerta de Valla de Abeto'
+        buy: 30
+        sell: 15
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$15 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '33':
+        material: BIRCH_FENCE_GATE
+        displayname: '&fPuerta de Valla de Abedul'
+        buy: 30
+        sell: 15
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$15 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '34':
+        material: JUNGLE_FENCE_GATE
+        displayname: '&fPuerta de Valla de Jungla'
+        buy: 30
+        sell: 15
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$15 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '35':
+        material: ACACIA_FENCE_GATE
+        displayname: '&fPuerta de Valla de Acacia'
+        buy: 30
+        sell: 15
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$15 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '36':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '37':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '38':
+        material: DARK_OAK_FENCE_GATE
+        displayname: '&fPuerta de Valla de Roble Oscuro'
+        buy: 30
+        sell: 15
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$15 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '39':
+        material: MANGROVE_FENCE_GATE
+        displayname: '&fPuerta de Valla de Manglar'
+        buy: 30
+        sell: 15
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$15 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '40':
+        material: CHERRY_FENCE_GATE
+        displayname: '&fPuerta de Valla de Cerezo'
+        buy: 30
+        sell: 15
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$15 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '41':
+        material: BAMBOO_FENCE_GATE
+        displayname: '&fPuerta de Valla de Bambú'
+        buy: 35
+        sell: 17
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$17 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '42':
+        material: CRIMSON_FENCE_GATE
+        displayname: '&fPuerta de Valla Carmesí'
+        buy: 35
+        sell: 17
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$17 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '43':
+        material: WARPED_FENCE_GATE
+        displayname: '&fPuerta de Valla Distorsionada'
+        buy: 35
+        sell: 17
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$17 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMadera'
+      '44':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '45':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''

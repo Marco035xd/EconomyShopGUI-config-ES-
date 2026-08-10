@@ -1,0 +1,432 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '2':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '3':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '4':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '5':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '6':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '7':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '8':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '9':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '10':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '11':
+        material: CHERRY_LOG
+        buy: 80
+        sell: 20
+        displayname: '&dTronco de Cerezo'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '12':
+        material: CHERRY_WOOD
+        buy: 80
+        sell: 20
+        displayname: '&dMadera de Cerezo'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '13':
+        material: STRIPPED_CHERRY_LOG
+        buy: 80
+        sell: 20
+        displayname: '&dTronco de Cerezo Descascarado'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '14':
+        material: STRIPPED_CHERRY_WOOD
+        buy: 80
+        sell: 20
+        displayname: '&dMadera de Cerezo Descascarada'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '15':
+        material: CHERRY_PLANKS
+        buy: 80
+        sell: 20
+        displayname: '&dTablones de Cerezo'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '16':
+        material: BAMBOO_BLOCK
+        buy: 60
+        sell: 15
+        displayname: '&eBloque de Bambú'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$60 &6⛃'
+        - '&fVenta &e$15 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '17':
+        material: STRIPPED_BAMBOO_BLOCK
+        buy: 80
+        sell: 20
+        displayname: '&eBambú Descascarado'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '18':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '19':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '20':
+        material: BAMBOO_PLANKS
+        buy: 80
+        sell: 20
+        displayname: '&eTablones de Bambú'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '21':
+        material: CHISELED_BOOKSHELF
+        buy: 100
+        sell: 25
+        displayname: '&6Estantería Cincelada'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100 &6⛃'
+        - '&fVenta &e$25 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '22':
+        material: CHERRY_HANGING_SIGN
+        buy: 120
+        sell: 30
+        displayname: '&dLetrero Colgante de Cerezo'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$120 &6⛃'
+        - '&fVenta &e$30 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '23':
+        material: CALIBRATED_SCULK_SENSOR
+        buy: 200
+        sell: 50
+        displayname: '&9Sensor Sculk Calibrado'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$200 &6⛃'
+        - '&fVenta &e$50 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '24':
+        material: DECORATED_POT
+        buy: 90
+        sell: 20
+        displayname: '&fOlla Decorativa'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$90 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '25':
+        material: PINK_PETALS
+        buy: 50
+        sell: 12
+        displayname: '&dPétalos Rosas'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$50 &6⛃'
+        - '&fVenta &e$12 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '26':
+        material: TORCHFLOWER
+        buy: 150
+        sell: 35
+        displayname: '&eFlor Antorcha'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$150 &6⛃'
+        - '&fVenta &e$35 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '27':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '28':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '29':
+        material: TORCHFLOWER_SEEDS
+        buy: 80
+        sell: 20
+        displayname: '&eSemillas de Flor Antorcha'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$20 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '30':
+        material: SUSPICIOUS_GRAVEL
+        buy: 120
+        sell: 30
+        displayname: '&8Grava Sospechosa'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$120 &6⛃'
+        - '&fVenta &e$30 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '31':
+        material: SUSPICIOUS_SAND
+        buy: 120
+        sell: 30
+        displayname: '&eArena Sospechosa'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$120 &6⛃'
+        - '&fVenta &e$30 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '32':
+        material: BRUSH
+        buy: 300
+        sell: 90
+        displayname: '&fBrocha Arqueológica'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$300 &6⛃'
+        - '&fVenta &e$90 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '33':
+        material: BAMBOO_RAFT
+        buy: 200
+        sell: 50
+        displayname: '&eBalsa de Bambú'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$200 &6⛃'
+        - '&fVenta &e$50 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '34':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '35':
+        material: PIGLIN_HEAD
+        buy: 10000000
+        sell: 250
+        displayname: '&6Cabeza de Piglin'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$10,000,000 &6⛃'
+        - '&fVenta &e$250 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '36':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '37':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '38':
+        material: SNIFFER_EGG
+        buy: 5000
+        sell: 900
+        displayname: '&aHuevo de Sniffer'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000 &6⛃'
+        - '&fVenta &e$900 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fBloques 1.20'
+      '39':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '40':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '41':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '42':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '43':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '44':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '45':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''

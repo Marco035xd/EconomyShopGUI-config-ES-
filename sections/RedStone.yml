@@ -1,0 +1,28 @@
+enable: true
+slot: 25
+title: '        &l&7&kX&l&0&nMercado | RedStone&l&7&kX'
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: REDSTONE
+  displayname: '&fCategoría &7► &cRedStone &7(&7⚡&7)'
+  lore:
+  - '&7Mercado'
+  - ''
+  - '&f Explora objetos organizados'
+  - '&f para comprar y vender fácil.'
+  - ''
+  - ' &c✮ &cInformación'
+  - '   &7• &fArtículos &c28'
+  - ''
+  - ' &b✎ &bContenido'
+  - '   &7• &fCircuitos y señales'
+  - '   &7• &fMecanismos y automatización'
+  - ''
+  - ' &7▲ ¡Click para abrir!'
+  name: '&c&lRedStone'

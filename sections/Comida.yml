@@ -1,0 +1,28 @@
+enable: true
+slot: 14
+title: '        &l&7&kX&l&0&nMercado | Comida&l&7&kX'
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: APPLE
+  displayname: '&fCategoría &7► &aComida &7(&7🍏&7)'
+  lore:
+  - '&7Mercado'
+  - ''
+  - '&f Explora objetos organizados'
+  - '&f para comprar y vender fácil.'
+  - ''
+  - ' &a✮ &aInformación'
+  - '   &7• &fArtículos &a21'
+  - ''
+  - ' &b✎ &bContenido'
+  - '   &7• &fAlimentos'
+  - '   &7• &fConsumibles'
+  - ''
+  - ' &7▲ ¡Click para abrir!'
+  name: '&2&lComida'

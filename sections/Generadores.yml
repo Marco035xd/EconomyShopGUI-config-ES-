@@ -1,0 +1,28 @@
+enable: true
+slot: 34
+title: '        &l&7&kX&l&0&nMercado | Generadores&l&7&kX'
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: SPAWNER
+  displayname: '&fCategoría &7► &aGeneradores &7(&7◎&7)'
+  lore:
+  - '&7Mercado'
+  - ''
+  - '&f Explora objetos organizados'
+  - '&f para comprar y vender fácil.'
+  - ''
+  - ' &a✮ &aInformación'
+  - '   &7• &fArtículos &a28'
+  - ''
+  - ' &b✎ &bContenido'
+  - '   &7• &fSpawners de mobs'
+  - '   &7• &fGranjas y progreso'
+  - ''
+  - ' &7▲ ¡Click para abrir!'
+  name: '&2&lGeneradores'

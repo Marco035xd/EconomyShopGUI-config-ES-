@@ -1,0 +1,460 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '2':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '3':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '4':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '5':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '6':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '7':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '8':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '9':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '10':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '11':
+        material: COAL
+        buy: 9
+        sell: 2
+        displayname: '&fCarbón'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$9 &6⛃'
+        - '&fVenta &e$2 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMinerales'
+      '12':
+        material: LAPIS_LAZULI
+        buy: 12
+        sell: 3
+        displayname: '&fLapizlázuli'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$12 &6⛃'
+        - '&fVenta &e$3 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMinerales'
+      '13':
+        material: REDSTONE
+        buy: 16
+        sell: 3
+        displayname: '&fPolvo de redstone'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$16 &6⛃'
+        - '&fVenta &e$3 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMinerales'
+      '14':
+        material: IRON_INGOT
+        buy: 1000
+        sell: 90
+        displayname: '&fLingote de hierro'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,000 &6⛃'
+        - '&fVenta &e$90 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMinerales'
+      '15':
+        material: GOLD_INGOT
+        buy: 5000
+        sell: 80
+        displayname: '&fLingote de oro'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000 &6⛃'
+        - '&fVenta &e$80 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMinerales'
+      '16':
+        material: DIAMOND
+        buy: 3000
+        sell: 400
+        displayname: '&fDiamante'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$3,000 &6⛃'
+        - '&fVenta &e$400 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMinerales'
+      '17':
+        material: EMERALD
+        buy: 5000
+        sell: 13
+        displayname: '&fEsmeralda'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,000 &6⛃'
+        - '&fVenta &e$13 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMinerales'
+      '18':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '19':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '20':
+        material: COAL_BLOCK
+        buy: 125000
+        displayname: '&fBloque de Carbón'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$125,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '21':
+        material: LAPIS_BLOCK
+        buy: 1200000
+        displayname: '&fBloque de Lapizlázuli'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,200,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '22':
+        material: REDSTONE_BLOCK
+        buy: 1000000
+        displayname: '&fBloque de redstone'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '23':
+        material: IRON_BLOCK
+        buy: 2000000
+        displayname: '&fBloque de hierro'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$2,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '24':
+        material: GOLD_BLOCK
+        buy: 1550000
+        displayname: '&fBloque de oro'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,550,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '25':
+        material: DIAMOND_BLOCK
+        buy: 5500000
+        displayname: '&fBloque de Diamante'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$5,500,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '26':
+        material: EMERALD_BLOCK
+        buy: 650000
+        displayname: '&fBloque de Esmeralda'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$650,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '27':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '28':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '29':
+        material: PRISMARINE_SHARD
+        buy: 35000
+        displayname: '&fFragmento de prismarina'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$35,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '30':
+        material: QUARTZ
+        buy: 35000
+        displayname: '&fCuarzo del Nether'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$35,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '31':
+        material: NETHERITE_INGOT
+        buy: 6500000
+        sell: 10000
+        displayname: '&fLingote de netherite'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$6,500,000 &6⛃'
+        - '&fVenta &e$10,000 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMinerales'
+      '32':
+        material: AMETHYST_SHARD
+        buy: 25
+        sell: 3
+        displayname: '&fFragmento de amatista'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &e$3 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMinerales'
+      '33':
+        material: COPPER_INGOT
+        buy: 25
+        sell: 2
+        displayname: '&fLingote de cobre'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &e$2 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fMinerales'
+      '34':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '35':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '36':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '37':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '38':
+        material: PRISMARINE
+        buy: 75000
+        displayname: '&fPrismarina'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$75,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '39':
+        material: QUARTZ_BLOCK
+        buy: 80000
+        displayname: '&fCuarzo'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$80,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '40':
+        material: NETHERITE_BLOCK
+        buy: 22500000
+        displayname: '&fBloque de netherita'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$22,500,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '41':
+        material: AMETHYST_BLOCK
+        buy: 150000
+        displayname: '&fBloque de amatista'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$150,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '42':
+        material: COPPER_BLOCK
+        buy: 8000000
+        displayname: '&fBloque de cobre'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$8,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fMinerales'
+        sell: -1
+      '43':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '44':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '45':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''

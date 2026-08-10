@@ -1,0 +1,461 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '2':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '3':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '4':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '5':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '6':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '7':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '8':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '9':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '10':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '11':
+        material: SPAWNER
+        spawnertype: IRON_GOLEM
+        buy: 2000000
+        sell: -1
+        displayname: '&fSpawner de Gólem de Hierro'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$2,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '12':
+        material: SPAWNER
+        spawnertype: SLIME
+        buy: 5000000
+        sell: -1
+        displayname: '&fSpawner de Slime'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$5,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '13':
+        material: SPAWNER
+        spawnertype: ZOMBIE
+        buy: 1000000
+        sell: -1
+        displayname: '&fSpawner de Zombie'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '14':
+        material: SPAWNER
+        spawnertype: SKELETON
+        buy: 1000000
+        sell: -1
+        displayname: '&fSpawner de Esqueleto'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '15':
+        material: SPAWNER
+        spawnertype: SPIDER
+        buy: 1000000
+        sell: -1
+        displayname: '&fSpawner de Araña'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '16':
+        material: SPAWNER
+        spawnertype: SHEEP
+        buy: 1000000
+        sell: -1
+        displayname: '&fSpawner de Oveja'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '17':
+        material: SPAWNER
+        spawnertype: COW
+        buy: 1000000
+        sell: -1
+        displayname: '&fSpawner de Vaca'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '18':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '19':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '20':
+        material: SPAWNER
+        spawnertype: VILLAGER
+        buy: 1000000000
+        sell: -1
+        displayname: '&fSpawner de Aldeano'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$1,000,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '21':
+        material: SPAWNER
+        spawnertype: BLAZE
+        buy: 10000000
+        sell: -1
+        displayname: '&fSpawner de Blaze'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$10,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '22':
+        material: SPAWNER
+        spawnertype: CREEPER
+        buy: 1000000
+        sell: -1
+        displayname: '&fSpawner de Creeper'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '23':
+        material: SPAWNER
+        spawnertype: ENDERMAN
+        buy: 2000000
+        sell: -1
+        displayname: '&fSpawner de Enderman'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$2,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '24':
+        material: SPAWNER
+        spawnertype: VINDICATOR
+        buy: 100000000
+        sell: -1
+        displayname: '&fSpawner de Vindicador'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$100,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '25':
+        material: SPAWNER
+        spawnertype: RAVAGER
+        buy: 100000000
+        sell: -1
+        displayname: '&fSpawner de Devastador'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$100,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '26':
+        material: SPAWNER
+        spawnertype: WITHER_SKELETON
+        buy: 100000000
+        sell: -1
+        displayname: '&fSpawner de Esqueleto del Wither'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$100,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '27':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '28':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '29':
+        material: SPAWNER
+        spawnertype: CAT
+        buy: 2000000
+        sell: -1
+        displayname: '&fSpawner de Gatos'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$2,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '30':
+        material: SPAWNER
+        spawnertype: HORSE
+        buy: 1000000
+        sell: -1
+        displayname: '&fSpawner de Caballos'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '31':
+        material: SPAWNER
+        spawnertype: WOLF
+        buy: 1000000
+        sell: -1
+        displayname: '&fSpawner de Lobos'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '32':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '33':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '34':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '35':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '36':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '37':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '38':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '39':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '40':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '41':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '42':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '43':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '44':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '45':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''

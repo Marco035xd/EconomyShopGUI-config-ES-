@@ -1,0 +1,678 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '2':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '3':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '4':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '5':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '6':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '7':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '8':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '9':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '10':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '11':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '12':
+        material: NETHERITE_HELMET
+        buy: 1000000000
+        displayname: '&fYelmo de Netherite'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,000,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '13':
+        material: DIAMOND_HELMET
+        buy: 100000000
+        displayname: '&fYelmo de Diamante'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '14':
+        material: IRON_HELMET
+        buy: 10000000
+        displayname: '&fYelmo de Hierro'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$10,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '15':
+        material: CHAINMAIL_HELMET
+        buy: 1000000
+        displayname: '&fYelmo de Cota de Malla'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '16':
+        material: LEATHER_HELMET
+        buy: 10000
+        displayname: '&fYelmo de Cuero'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$10,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '17':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '18':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '19':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '20':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '21':
+        material: NETHERITE_CHESTPLATE
+        buy: 1000000000
+        displayname: '&fPechera de Netherite'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,000,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '22':
+        material: DIAMOND_CHESTPLATE
+        buy: 100000000
+        displayname: '&fPechera de Diamante'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '23':
+        material: IRON_CHESTPLATE
+        buy: 10000000
+        displayname: '&fPechera de Hierro'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$10,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '24':
+        material: CHAINMAIL_CHESTPLATE
+        buy: 100000
+        displayname: '&fPechera de Cota de Malla'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '25':
+        material: LEATHER_CHESTPLATE
+        buy: 10000
+        displayname: '&fTunica de Cuero'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$10,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '26':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '27':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '28':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '29':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '30':
+        material: NETHERITE_LEGGINGS
+        buy: 1000000000
+        displayname: '&fPantalón de Netherite'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,000,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '31':
+        material: DIAMOND_LEGGINGS
+        buy: 100000000
+        displayname: '&fPantalón de Diamante'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '32':
+        material: IRON_LEGGINGS
+        buy: 10000000
+        displayname: '&fPantalón de Hierro'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$10,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '33':
+        material: CHAINMAIL_LEGGINGS
+        buy: 100000
+        displayname: '&fPantalón de Malla'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '34':
+        material: LEATHER_LEGGINGS
+        buy: 10000
+        displayname: '&fPantalón de Cuero'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$10,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '35':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '37':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '38':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '39':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '40':
+        material: NETHERITE_BOOTS
+        buy: 1000000000
+        displayname: '&fBotas de Netherite'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,000,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '41':
+        material: DIAMOND_BOOTS
+        buy: 100000000
+        displayname: '&fBotas de Diamante'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '42':
+        material: IRON_BOOTS
+        buy: 10000000
+        displayname: '&fBotas de Hierro'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$10,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '44':
+        material: CHAINMAIL_BOOTS
+        buy: 100000
+        displayname: '&fBotas de Malla'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '45':
+        material: LEATHER_BOOTS
+        buy: 10000
+        displayname: '&fBotas de Cuero'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$10,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '46':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '47':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+  page2:
+    items:
+      '1':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '2':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '3':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '4':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '5':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '6':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '7':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '8':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '9':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '10':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '11':
+        material: BOW
+        buy: 25000
+        displayname: '&fArco'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$25,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '12':
+        material: CROSSBOW
+        buy: 50000
+        displayname: '&fBallesta'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$50,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '13':
+        material: ARROW
+        buy: 25
+        displayname: '&fFlechas'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '14':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '15':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '16':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '17':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '18':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '19':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '20':
+        material: NETHERITE_SWORD
+        buy: 100000000
+        displayname: '&fEspada de Netherite'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '21':
+        material: DIAMOND_SWORD
+        buy: 50000
+        displayname: '&fEspada de Diamante'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$50,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '22':
+        material: IRON_SWORD
+        buy: 50000
+        displayname: '&fEspada de Hierro'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$50,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '23':
+        material: GOLDEN_SWORD
+        buy: 20000
+        displayname: '&fEspada de Oro'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$20,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '24':
+        material: STONE_SWORD
+        buy: 10000
+        displayname: '&fEspada de Piedra'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$10,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '25':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '26':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '27':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '28':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '29':
+        material: SPYGLASS
+        buy: 50000
+        displayname: '&fCatalejo'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$50,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '30':
+        material: ELYTRA
+        buy: 50000000
+        displayname: '&fElytras'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$50,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '31':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '32':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '33':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '34':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '35':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '36':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '37':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '38':
+        material: TRIDENT
+        buy: 50000000
+        displayname: '&fTridente'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$50,000,000 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fArmería'
+        sell: -1
+      '39':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '40':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '41':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '42':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '43':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '44':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''
+      '45':
+        material: GRAY_STAINED_GLASS_PANE
+        displayname: ''

@@ -1,0 +1,33 @@
+enable: true
+slot: 23
+title: '        &l&7&kX&l&0&nMercado | Madera&l&7&kX'
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: OAK_LOG
+  displayname: '&fCategoría &7► &eMadera &7(&7🌳&7)'
+  lore:
+  - '&7Mercado'
+  - ''
+  - '&fEncuentra gran variedad de'
+  - '&fobjetos en esta categoría.'
+  - ''
+  - ' &a✦ &aInformación'
+  - '   &7• &fArtículos &a85'
+  - ''
+  - ' &b✎ &bContenido'
+  - '   &7• &fTroncos'
+  - '   &7• &fMadera'
+  - '   &7• &fLosas'
+  - '   &7• &fEscaleras'
+  - '   &7• &fPuertas'
+  - '   &7• &fVallas'
+  - '   &7• &fPuertas de Valla'
+  - ''
+  - ' &f▲ &f¡Click para ver ahora!'
+  name: '&6&lMadera'

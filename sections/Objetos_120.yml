@@ -1,0 +1,28 @@
+enable: true
+slot: 31
+title: '        &l&7&kX&l&0&nMercado | Objetos 1.20&l&7&kX'
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: BRUSH
+  displayname: '&fCategoría &7► &aObjetos 1.20 &7(&7⚒&7)'
+  lore:
+  - '&7Mercado'
+  - ''
+  - '&f Explora objetos organizados'
+  - '&f para comprar y vender fácil.'
+  - ''
+  - ' &a✮ &aInformación'
+  - '   &7• &fArtículos &a19'
+  - ''
+  - ' &b✎ &bContenido'
+  - '   &7• &fPlantillas de herrería'
+  - '   &7• &fArqueología'
+  - ''
+  - ' &7▲ ¡Click para abrir!'
+  name: '&2&lObjetos 1.20'

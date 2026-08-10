@@ -1,0 +1,28 @@
+enable: true
+slot: 33
+title: '        &l&7&kX&l&0&nMercado | Discos&l&7&kX'
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: MUSIC_DISC_CAT
+  displayname: '&fCategoría &7► &aDiscos &7(&7♫&7)'
+  lore:
+  - '&7Mercado'
+  - ''
+  - '&f Explora objetos organizados'
+  - '&f para comprar y vender fácil.'
+  - ''
+  - ' &a✮ &aInformación'
+  - '   &7• &fArtículos &a20'
+  - ''
+  - ' &b✎ &bContenido'
+  - '   &7• &fDiscos musicales'
+  - '   &7• &fColección y decoración'
+  - ''
+  - ' &7▲ ¡Click para abrir!'
+  name: '&2&lDiscos'
