@@ -33,14 +33,14 @@ pages:
         displayname: ''
       '11':
         material: CHISELED_STONE_BRICKS
-        buy: 7
+        buy: 40
         sell: -1
         displayname: '&fPared de piedra labrada'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$7 &6⛃'
+        - '&fCompra &a$40 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -49,14 +49,14 @@ pages:
         - '&7Categoría: &fDecoración'
       '12':
         material: BOOKSHELF
-        buy: 310
+        buy: 180
         sell: -1
         displayname: '&fLibrería'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$310 &6⛃'
+        - '&fCompra &a$180 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -65,14 +65,14 @@ pages:
         - '&7Categoría: &fDecoración'
       '13':
         material: ENCHANTING_TABLE
-        buy: 3000000
+        buy: 4500
         sell: -1
         displayname: '&fMesa de encantamientos'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$3,000,000 &6⛃'
+        - '&fCompra &a$4,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -81,14 +81,14 @@ pages:
         - '&7Categoría: &fDecoración'
       '14':
         material: ANVIL
-        buy: 4000
+        buy: 9500
         sell: -1
         displayname: '&fYunque'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$4,000 &6⛃'
+        - '&fCompra &a$9,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -97,14 +97,14 @@ pages:
         - '&7Categoría: &fDecoración'
       '15':
         material: ENDER_CHEST
-        buy: 300000000
+        buy: 2600
         sell: -1
         displayname: '&fCofre de ender'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$300,000,000 &6⛃'
+        - '&fCompra &a$2,600 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -113,15 +113,15 @@ pages:
         - '&7Categoría: &fDecoración'
       '16':
         material: CHEST
-        buy: 300
-        sell: 10
+        buy: 160
+        sell: 48
         displayname: '&fCofre'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$300 &6⛃'
-        - '&fVenta &e$10 &6⛃'
+        - '&fCompra &a$160 &6⛃'
+        - '&fVenta &e$48 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -187,14 +187,14 @@ pages:
         displayname: ''
       '23':
         material: NOTE_BLOCK
-        buy: 2500
+        buy: 180
         sell: -1
         displayname: '&fBloque musical'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$2,500 &6⛃'
+        - '&fCompra &a$180 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -257,14 +257,14 @@ pages:
         displayname: ''
       '29':
         material: IRON_DOOR
-        buy: 10000
+        buy: 650
         sell: -1
         displayname: '&fPuerta de hierro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000 &6⛃'
+        - '&fCompra &a$650 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -337,14 +337,14 @@ pages:
         - '&7Categoría: &fDecoración'
       '94':
         material: COBWEB
-        buy: 10025
+        buy: 250
         sell: -1
         displayname: '&fTelaraña'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,025 &6⛃'
+        - '&fCompra &a$250 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -375,14 +375,14 @@ pages:
         displayname: ''
       '98':
         material: WATER_BUCKET
-        buy: 50000
+        buy: 950
         sell: -1
         displayname: '&fCubo de agua'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50,000 &6⛃'
+        - '&fCompra &a$950 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -410,14 +410,14 @@ pages:
         displayname: ''
       '101':
         material: WITHER_SKELETON_SKULL
-        buy: 1000000000000
+        buy: 25000
         sell: -1
         displayname: '&fCráneo de Wither'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000,000,000 &6⛃'
+        - '&fCompra &a$25,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -458,14 +458,14 @@ pages:
         - '&7Categoría: &fDecoración'
       '104':
         material: INK_SAC
-        buy: 1200
+        buy: 30
         sell: -1
         displayname: '&fSaco de tinta'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,200 &6⛃'
+        - '&fCompra &a$30 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1511,13 +1511,13 @@ pages:
         displayname: ''
       '11':
         material: SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker Box'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1527,13 +1527,13 @@ pages:
         sell: -1
       '12':
         material: WHITE_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker blanco'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1543,13 +1543,13 @@ pages:
         sell: -1
       '13':
         material: ORANGE_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker naranja'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1559,13 +1559,13 @@ pages:
         sell: -1
       '14':
         material: MAGENTA_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker magenta'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1575,13 +1575,13 @@ pages:
         sell: -1
       '15':
         material: LIGHT_BLUE_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker azul claro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1591,13 +1591,13 @@ pages:
         sell: -1
       '16':
         material: YELLOW_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker amarillo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1607,13 +1607,13 @@ pages:
         sell: -1
       '17':
         material: LIME_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker verde lima'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1629,13 +1629,13 @@ pages:
         displayname: ''
       '20':
         material: PINK_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker rosa'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1645,13 +1645,13 @@ pages:
         sell: -1
       '21':
         material: GRAY_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker gris'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1661,13 +1661,13 @@ pages:
         sell: -1
       '22':
         material: LIGHT_GRAY_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker gris claro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1677,13 +1677,13 @@ pages:
         sell: -1
       '23':
         material: CYAN_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker cian'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1693,13 +1693,13 @@ pages:
         sell: -1
       '24':
         material: PURPLE_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker morado'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1709,13 +1709,13 @@ pages:
         sell: -1
       '25':
         material: BLUE_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker azul'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1725,13 +1725,13 @@ pages:
         sell: -1
       '26':
         material: BROWN_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker marrón'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1747,13 +1747,13 @@ pages:
         displayname: ''
       '29':
         material: GREEN_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker verde'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1763,13 +1763,13 @@ pages:
         sell: -1
       '30':
         material: RED_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker rojo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -1779,13 +1779,13 @@ pages:
         sell: -1
       '31':
         material: BLACK_SHULKER_BOX
-        buy: 10000000000
+        buy: 3500
         displayname: '&fShulker negro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -2012,13 +2012,13 @@ pages:
         displayname: ''
       '11':
         material: WHITE_WOOL
-        buy: 100
+        buy: 50
         displayname: '&fLana blanca'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100 &6⛃'
+        - '&fCompra &a$50 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -2577,13 +2577,13 @@ pages:
         sell: -1
       '15':
         material: BEACON
-        buy: 4000000
+        buy: 100000
         displayname: '&fFaro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$4,000,000 &6⛃'
+        - '&fCompra &a$100,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -2631,13 +2631,13 @@ pages:
         displayname: ''
       '30':
         material: END_ROD
-        buy: 20000
+        buy: 120
         displayname: '&fVara del End'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$20,000 &6⛃'
+        - '&fCompra &a$120 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -2647,13 +2647,13 @@ pages:
         sell: -1
       '31':
         material: SHROOMLIGHT
-        buy: 18
+        buy: 36
         displayname: '&fCallampiluz'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$18 &6⛃'
+        - '&fCompra &a$36 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -2695,13 +2695,13 @@ pages:
         sell: -1
       '34':
         material: BOOKSHELF
-        buy: 40
+        buy: 180
         displayname: '&eEstante de Libros'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$40 &6⛃'
+        - '&fCompra &a$180 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -2711,13 +2711,13 @@ pages:
         sell: -1
       '35':
         material: CHISELED_BOOKSHELF
-        buy: 45
+        buy: 180
         displayname: '&eEstante Tallado'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$45 &6⛃'
+        - '&fCompra &a$180 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -2749,13 +2749,13 @@ pages:
         displayname: ''
       '39':
         material: MOSS_BLOCK
-        buy: 12
+        buy: 80
         displayname: '&fBloque Musgoso'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$12 &6⛃'
+        - '&fCompra &a$80 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -2765,13 +2765,13 @@ pages:
         sell: -1
       '40':
         material: CALCITE
-        buy: 20
+        buy: 80
         displayname: '&fCalcita'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$20 &6⛃'
+        - '&fCompra &a$80 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -2781,13 +2781,13 @@ pages:
         sell: -1
       '41':
         material: AMETHYST_BLOCK
-        buy: 30
+        buy: 90
         displayname: '&dBloque de Amatista'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$30 &6⛃'
+        - '&fCompra &a$90 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -2797,13 +2797,13 @@ pages:
         sell: -1
       '42':
         material: TINTED_GLASS
-        buy: 20
+        buy: 160
         displayname: '&8Vidrio Oscurecido'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$20 &6⛃'
+        - '&fCompra &a$160 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'

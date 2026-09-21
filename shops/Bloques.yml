@@ -34,14 +34,14 @@ pages:
       '11':
         material: STONE
         buy: 10
-        sell: 2
+        sell: 3
         displayname: '&fPiedra'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$10 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fVenta &e$3 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -50,15 +50,15 @@ pages:
         - '&7Categoría: &fBloques'
       '12':
         material: GRANITE
-        buy: 50
-        sell: 1
+        buy: 30
+        sell: 9
         displayname: '&fGranito'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$9 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -67,15 +67,15 @@ pages:
         - '&7Categoría: &fBloques'
       '13':
         material: ANDESITE
-        buy: 50
-        sell: 1
+        buy: 30
+        sell: 9
         displayname: '&fAndesita'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$9 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -84,15 +84,15 @@ pages:
         - '&7Categoría: &fBloques'
       '14':
         material: STONE_BRICKS
-        buy: 50
-        sell: 1
+        buy: 35
+        sell: 10
         displayname: '&fPiedra Labrada'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$10 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -101,15 +101,15 @@ pages:
         - '&7Categoría: &fBloques'
       '15':
         material: MOSSY_STONE_BRICKS
-        buy: 22
-        sell: 1
+        buy: 35
+        sell: 10
         displayname: '&fPiedra Labrada Musgosa'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$22 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$10 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -118,15 +118,15 @@ pages:
         - '&7Categoría: &fBloques'
       '16':
         material: STONE_BRICKS
-        buy: 50
-        sell: 1
+        buy: 35
+        sell: 10
         displayname: '&fLadrillos de Piedra'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$10 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -135,15 +135,15 @@ pages:
         - '&7Categoría: &fBloques'
       '17':
         material: MOSSY_STONE_BRICKS
-        buy: 500
-        sell: 1
+        buy: 35
+        sell: 10
         displayname: '&fLadrillos de Piedra Musgosa'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$500 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$10 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -156,15 +156,15 @@ pages:
         material: GRAY_STAINED_GLASS_PANE
       '20':
         material: CRACKED_STONE_BRICKS
-        buy: 500
-        sell: 1
+        buy: 35
+        sell: 10
         displayname: '&fLadrillos de Piedra Rotos'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$500 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$10 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -173,15 +173,15 @@ pages:
         - '&7Categoría: &fBloques'
       '21':
         material: CHISELED_STONE_BRICKS
-        buy: 500
-        sell: 1
+        buy: 40
+        sell: 12
         displayname: '&fLadrillos de Piedra Grabados'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$500 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -190,15 +190,15 @@ pages:
         - '&7Categoría: &fBloques'
       '22':
         material: DIRT
-        buy: 50
-        sell: 1
+        buy: 20
+        sell: 6
         displayname: '&fTierra'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$6 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -207,15 +207,15 @@ pages:
         - '&7Categoría: &fBloques'
       '23':
         material: GRASS_BLOCK
-        buy: 50
-        sell: 1
+        buy: 30
+        sell: 9
         displayname: '&fBloque de Pasto'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$9 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -224,15 +224,15 @@ pages:
         - '&7Categoría: &fBloques'
       '24':
         material: COARSE_DIRT
-        buy: 50
-        sell: 1
+        buy: 25
+        sell: 8
         displayname: '&fTierra Infértil'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &e$8 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -241,15 +241,15 @@ pages:
         - '&7Categoría: &fBloques'
       '25':
         material: PODZOL
-        buy: 50
-        sell: 1
+        buy: 35
+        sell: 10
         displayname: '&fPodsol'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$10 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -258,15 +258,15 @@ pages:
         - '&7Categoría: &fBloques'
       '26':
         material: MYCELIUM
-        buy: 50
-        sell: 1
+        buy: 40
+        sell: 12
         displayname: '&fMicelio'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -279,15 +279,15 @@ pages:
         material: GRAY_STAINED_GLASS_PANE
       '29':
         material: CLAY
-        buy: 50
-        sell: 1
+        buy: 35
+        sell: 10
         displayname: '&fArcilla'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$10 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -296,15 +296,15 @@ pages:
         - '&7Categoría: &fBloques'
       '30':
         material: GRAVEL
-        buy: 50
-        sell: 1
+        buy: 20
+        sell: 6
         displayname: '&fGrava'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$6 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -330,14 +330,14 @@ pages:
         - '&7Categoría: &fBloques'
       '32':
         material: RED_SAND
-        buy: 4
+        buy: 6
         sell: 2
         displayname: '&fArena Roja'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$4 &6⛃'
+        - '&fCompra &a$6 &6⛃'
         - '&fVenta &e$2 &6⛃'
         - ''
         - '&b✦ Acciones'
@@ -348,14 +348,14 @@ pages:
       '33':
         material: SANDSTONE
         buy: 18
-        sell: 2
+        sell: 5
         displayname: '&fArenisca'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$18 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fVenta &e$5 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -364,15 +364,15 @@ pages:
         - '&7Categoría: &fBloques'
       '34':
         material: GLASS
-        buy: 50
-        sell: 2
+        buy: 20
+        sell: 6
         displayname: '&fVidrio'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$6 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -381,15 +381,15 @@ pages:
         - '&7Categoría: &fBloques'
       '35':
         material: TERRACOTTA
-        buy: 100
-        sell: 2
+        buy: 40
+        sell: 12
         displayname: '&fTerracota'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -402,15 +402,15 @@ pages:
         material: GRAY_STAINED_GLASS_PANE
       '38':
         material: DIORITE
-        buy: 50
-        sell: 2
+        buy: 30
+        sell: 9
         displayname: '&fDiorita'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$9 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -419,15 +419,15 @@ pages:
         - '&7Categoría: &fBloques'
       '39':
         material: END_STONE
-        buy: 36
-        sell: 2
+        buy: 30
+        sell: 9
         displayname: '&fPiedra del End'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$36 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$9 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -436,15 +436,15 @@ pages:
         - '&7Categoría: &fBloques'
       '40':
         material: OBSIDIAN
-        buy: 40000
-        sell: 2
+        buy: 250
+        sell: 75
         displayname: '&fObsidiana'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$40,000 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$250 &6⛃'
+        - '&fVenta &e$75 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -453,15 +453,15 @@ pages:
         - '&7Categoría: &fBloques'
       '41':
         material: BRICKS
-        buy: 7
-        sell: 2
+        buy: 20
+        sell: 6
         displayname: '&fLadrillos'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$7 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$6 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -470,15 +470,15 @@ pages:
         - '&7Categoría: &fBloques'
       '42':
         material: ICE
-        buy: 36
-        sell: 2
+        buy: 30
+        sell: 9
         displayname: '&fHielo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$36 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$9 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -487,15 +487,15 @@ pages:
         - '&7Categoría: &fBloques'
       '43':
         material: PACKED_ICE
-        buy: 100
-        sell: 1
+        buy: 70
+        sell: 21
         displayname: '&fHielo Compacto'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$70 &6⛃'
+        - '&fVenta &e$21 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -504,15 +504,15 @@ pages:
         - '&7Categoría: &fBloques'
       '44':
         material: SNOW_BLOCK
-        buy: 36
-        sell: 1
+        buy: 20
+        sell: 6
         displayname: '&fBloque de Nieve'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$36 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$6 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -556,15 +556,15 @@ pages:
         displayname: ''
       '11':
         material: NETHERRACK
-        buy: 7
-        sell: 1
+        buy: 8
+        sell: 2
         displayname: '&fNetherrack'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$7 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$8 &6⛃'
+        - '&fVenta &e$2 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -573,15 +573,15 @@ pages:
         - '&7Categoría: &fBloques'
       '12':
         material: SOUL_SAND
-        buy: 50
-        sell: 2
+        buy: 40
+        sell: 12
         displayname: '&fArena de almas'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -590,15 +590,15 @@ pages:
         - '&7Categoría: &fBloques'
       '13':
         material: QUARTZ
-        buy: 36
-        sell: 2
+        buy: 80
+        sell: 24
         displayname: '&fCuarzo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$36 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$24 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -607,15 +607,15 @@ pages:
         - '&7Categoría: &fBloques'
       '14':
         material: NETHER_BRICKS
-        buy: 80
-        sell: 2
+        buy: 50
+        sell: 15
         displayname: '&fLadrillos del Nether'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$50 &6⛃'
+        - '&fVenta &e$15 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -624,15 +624,15 @@ pages:
         - '&7Categoría: &fBloques'
       '15':
         material: SEA_LANTERN
-        buy: 507
-        sell: 2
+        buy: 180
+        sell: 54
         displayname: '&fLinterna Marina'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$507 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$180 &6⛃'
+        - '&fVenta &e$54 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -641,15 +641,15 @@ pages:
         - '&7Categoría: &fBloques'
       '16':
         material: SPONGE
-        buy: 20000
-        sell: 1
+        buy: 600
+        sell: 180
         displayname: '&fEsponja'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$20,000 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$600 &6⛃'
+        - '&fVenta &e$180 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -680,15 +680,15 @@ pages:
         displayname: ''
       '20':
         material: SMOOTH_RED_SANDSTONE
-        buy: 32
-        sell: 2
+        buy: 30
+        sell: 9
         displayname: '&fArenisca Roja Lisa'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$32 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$9 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -697,15 +697,15 @@ pages:
         - '&7Categoría: &fBloques'
       '21':
         material: CHISELED_QUARTZ_BLOCK
-        buy: 38
-        sell: 3
+        buy: 90
+        sell: 27
         displayname: '&fCuarzo Grabado'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$38 &6⛃'
-        - '&fVenta &e$3 &6⛃'
+        - '&fCompra &a$90 &6⛃'
+        - '&fVenta &e$27 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -714,15 +714,15 @@ pages:
         - '&7Categoría: &fBloques'
       '22':
         material: QUARTZ_PILLAR
-        buy: 56
-        sell: 3
+        buy: 90
+        sell: 27
         displayname: '&fPilar de Cuarzo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$56 &6⛃'
-        - '&fVenta &e$3 &6⛃'
+        - '&fCompra &a$90 &6⛃'
+        - '&fVenta &e$27 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -731,15 +731,15 @@ pages:
         - '&7Categoría: &fBloques'
       '23':
         material: WARPED_NYLIUM
-        buy: 50
-        sell: 2
+        buy: 35
+        sell: 10
         displayname: '&fNilio Distorsionado'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$10 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -748,15 +748,15 @@ pages:
         - '&7Categoría: &fBloques'
       '24':
         material: CRIMSON_NYLIUM
-        buy: 50
-        sell: 2
+        buy: 35
+        sell: 10
         displayname: '&fNilio Carmesí'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$10 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -765,15 +765,15 @@ pages:
         - '&7Categoría: &fBloques'
       '25':
         material: SOUL_SOIL
-        buy: 80
-        sell: 2
+        buy: 45
+        sell: 14
         displayname: '&fTierra de Almas'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$45 &6⛃'
+        - '&fVenta &e$14 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -783,14 +783,14 @@ pages:
       '26':
         material: SHROOMLIGHT
         buy: 36
-        sell: 1
+        sell: 11
         displayname: '&fHongo Luminoso'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$36 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fVenta &e$11 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -805,15 +805,15 @@ pages:
         displayname: ''
       '29':
         material: BLACKSTONE
-        buy: 50
-        sell: 2
+        buy: 30
+        sell: 9
         displayname: '&fPiedra Negra'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$9 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -822,15 +822,15 @@ pages:
         - '&7Categoría: &fBloques'
       '30':
         material: BASALT
-        buy: 50
-        sell: 1
+        buy: 30
+        sell: 9
         displayname: '&fBasalto'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$9 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -839,15 +839,15 @@ pages:
         - '&7Categoría: &fBloques'
       '31':
         material: QUARTZ_BRICKS
-        buy: 13
-        sell: 1
+        buy: 90
+        sell: 27
         displayname: '&fLadrillos de Cuarzo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$13 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$90 &6⛃'
+        - '&fVenta &e$27 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -856,15 +856,15 @@ pages:
         - '&7Categoría: &fBloques'
       '32':
         material: CRYING_OBSIDIAN
-        buy: 40000
-        sell: 3
+        buy: 350
+        sell: 105
         displayname: '&fObsidiana Llorosa'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$40,000 &6⛃'
-        - '&fVenta &e$3 &6⛃'
+        - '&fCompra &a$350 &6⛃'
+        - '&fVenta &e$105 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -873,15 +873,15 @@ pages:
         - '&7Categoría: &fBloques'
       '33':
         material: TINTED_GLASS
-        buy: 36
-        sell: 2
+        buy: 160
+        sell: 48
         displayname: '&fVidrio Opaco'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$36 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$160 &6⛃'
+        - '&fVenta &e$48 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -891,14 +891,14 @@ pages:
       '34':
         material: CALCITE
         buy: 80
-        sell: 3
+        sell: 24
         displayname: '&fCalcita'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$3 &6⛃'
+        - '&fVenta &e$24 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -907,15 +907,15 @@ pages:
         - '&7Categoría: &fBloques'
       '35':
         material: TUFF
-        buy: 80
-        sell: 2
+        buy: 50
+        sell: 15
         displayname: '&fToba'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$50 &6⛃'
+        - '&fVenta &e$15 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -930,13 +930,13 @@ pages:
         displayname: ''
       '38':
         material: PRISMARINE_BRICKS
-        buy: 80
+        buy: 150
         displayname: '&fLadrillos de Prismarina'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$80 &6⛃'
+        - '&fCompra &a$150 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -946,13 +946,13 @@ pages:
         sell: -1
       '39':
         material: DARK_PRISMARINE
-        buy: 100
+        buy: 180
         displayname: '&fPrismarina Oscura'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100 &6⛃'
+        - '&fCompra &a$180 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -962,15 +962,15 @@ pages:
         sell: -1
       '40':
         material: GLOWSTONE
-        buy: 100
-        sell: 1
+        buy: 120
+        sell: 36
         displayname: '&fPiedra Luminosa'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$120 &6⛃'
+        - '&fVenta &e$36 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -979,15 +979,15 @@ pages:
         - '&7Categoría: &fBloques'
       '41':
         material: REDSTONE_LAMP
-        buy: 50
-        sell: 3
+        buy: 120
+        sell: 36
         displayname: '&fLámpara'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$3 &6⛃'
+        - '&fCompra &a$120 &6⛃'
+        - '&fVenta &e$36 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -997,14 +997,14 @@ pages:
       '42':
         material: SLIME_BLOCK
         buy: 450
-        sell: 5
+        sell: 135
         displayname: '&fBloque de Slime'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$450 &6⛃'
-        - '&fVenta &e$5 &6⛃'
+        - '&fVenta &e$135 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1013,15 +1013,15 @@ pages:
         - '&7Categoría: &fBloques'
       '43':
         material: SMOOTH_SANDSTONE
-        buy: 21
-        sell: 2
+        buy: 25
+        sell: 8
         displayname: '&fArenisca Lisa'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$21 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &e$8 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1030,15 +1030,15 @@ pages:
         - '&7Categoría: &fBloques'
       '44':
         material: SMOOTH_STONE
-        buy: 23
-        sell: 2
+        buy: 20
+        sell: 6
         displayname: '&fPiedra Lisa'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$23 &6⛃'
-        - '&fVenta &e$2 &6⛃'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$6 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1082,15 +1082,15 @@ pages:
         displayname: ''
       '11':
         material: PURPUR_BLOCK
-        buy: 509
-        sell: 1
+        buy: 80
+        sell: 24
         displayname: '&fPurpur'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$509 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$24 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1099,15 +1099,15 @@ pages:
         - '&7Categoría: &fBloques'
       '12':
         material: PURPUR_PILLAR
-        buy: 509
-        sell: 1
+        buy: 80
+        sell: 24
         displayname: '&fPilar de Purpur'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$509 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$24 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1116,15 +1116,15 @@ pages:
         - '&7Categoría: &fBloques'
       '13':
         material: PURPUR_BLOCK
-        buy: 509
-        sell: 1
+        buy: 80
+        sell: 24
         displayname: '&fPilar de Purpur'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$509 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$24 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1133,15 +1133,15 @@ pages:
         - '&7Categoría: &fBloques'
       '14':
         material: PURPUR_SLAB
-        buy: 509
-        sell: 1
+        buy: 45
+        sell: 14
         displayname: '&fLosa de Purpur'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$509 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$45 &6⛃'
+        - '&fVenta &e$14 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1150,15 +1150,15 @@ pages:
         - '&7Categoría: &fBloques'
       '15':
         material: END_STONE_BRICKS
-        buy: 509
-        sell: 1
+        buy: 50
+        sell: 15
         displayname: '&fLadrillos del End'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$509 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$50 &6⛃'
+        - '&fVenta &e$15 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1167,15 +1167,15 @@ pages:
         - '&7Categoría: &fBloques'
       '16':
         material: MAGMA_BLOCK
-        buy: 509
-        sell: 1
+        buy: 60
+        sell: 18
         displayname: '&fBloque de Magma'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$509 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$60 &6⛃'
+        - '&fVenta &e$18 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1184,15 +1184,15 @@ pages:
         - '&7Categoría: &fBloques'
       '17':
         material: RED_NETHER_BRICKS
-        buy: 509
-        sell: 1
+        buy: 80
+        sell: 24
         displayname: '&fLadrillos del Nether Rojos'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$509 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$24 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1207,15 +1207,15 @@ pages:
         displayname: ''
       '20':
         material: POLISHED_BLACKSTONE
-        buy: 120
-        sell: 1
+        buy: 50
+        sell: 15
         displayname: '&fPiedra Negra Pulida'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$120 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$50 &6⛃'
+        - '&fVenta &e$15 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1224,15 +1224,15 @@ pages:
         - '&7Categoría: &fBloques'
       '21':
         material: POLISHED_BLACKSTONE_BRICKS
-        buy: 120
-        sell: 1
+        buy: 55
+        sell: 16
         displayname: '&fLadrillos de Piedra Negra Pulida'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$120 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$55 &6⛃'
+        - '&fVenta &e$16 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1241,15 +1241,15 @@ pages:
         - '&7Categoría: &fBloques'
       '22':
         material: DEEPSLATE
-        buy: 80
-        sell: 1
+        buy: 25
+        sell: 8
         displayname: '&fPizarra Profunda'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$25 &6⛃'
+        - '&fVenta &e$8 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1258,15 +1258,15 @@ pages:
         - '&7Categoría: &fBloques'
       '23':
         material: COBBLED_DEEPSLATE
-        buy: 7
-        sell: 1
+        buy: 15
+        sell: 4
         displayname: '&fPizarra Profunda Labrada'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$7 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$15 &6⛃'
+        - '&fVenta &e$4 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1275,15 +1275,15 @@ pages:
         - '&7Categoría: &fBloques'
       '24':
         material: POLISHED_DEEPSLATE
-        buy: 120
-        sell: 1
+        buy: 35
+        sell: 10
         displayname: '&fPizarra Profunda Pulida'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$120 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$10 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1292,15 +1292,15 @@ pages:
         - '&7Categoría: &fBloques'
       '25':
         material: DEEPSLATE_BRICKS
-        buy: 120
-        sell: 1
+        buy: 40
+        sell: 12
         displayname: '&fLadrillos de Pizarra Profunda'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$120 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1309,15 +1309,15 @@ pages:
         - '&7Categoría: &fBloques'
       '26':
         material: DEEPSLATE_TILES
-        buy: 1208
-        sell: 1
+        buy: 40
+        sell: 12
         displayname: '&fAzulejo de Pizarra Profunda'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,208 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1332,15 +1332,15 @@ pages:
         displayname: ''
       '29':
         material: CHISELED_DEEPSLATE
-        buy: 32
-        sell: 1
+        buy: 40
+        sell: 12
         displayname: '&fPizarra Profunda Grabada'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$32 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1349,15 +1349,15 @@ pages:
         - '&7Categoría: &fBloques'
       '30':
         material: POINTED_DRIPSTONE
-        buy: 56
-        sell: 1
+        buy: 35
+        sell: 10
         displayname: '&fCaliza Puntiaguda'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$56 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$35 &6⛃'
+        - '&fVenta &e$10 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1367,14 +1367,14 @@ pages:
       '31':
         material: MOSS_BLOCK
         buy: 80
-        sell: 1
+        sell: 24
         displayname: '&fBloque de Musgo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fVenta &e$24 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1383,15 +1383,15 @@ pages:
         - '&7Categoría: &fBloques'
       '32':
         material: ROOTED_DIRT
-        buy: 80
-        sell: 1
+        buy: 30
+        sell: 9
         displayname: '&fTierra Enraizada'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$9 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -1400,15 +1400,15 @@ pages:
         - '&7Categoría: &fBloques'
       '33':
         material: POWDER_SNOW_BUCKET
-        buy: 100
-        sell: 1
+        buy: 250
+        sell: 75
         displayname: '&fCubeta de Nieve en Polvo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100 &6⛃'
-        - '&fVenta &e$1 &6⛃'
+        - '&fCompra &a$250 &6⛃'
+        - '&fVenta &e$75 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'

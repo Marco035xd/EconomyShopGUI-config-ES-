@@ -33,15 +33,15 @@ pages:
         displayname: ''
       '11':
         material: CHERRY_LOG
-        buy: 80
-        sell: 20
+        buy: 40
+        sell: 12
         displayname: '&dTronco de Cerezo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -50,15 +50,15 @@ pages:
         - '&7Categoría: &fBloques 1.20'
       '12':
         material: CHERRY_WOOD
-        buy: 80
-        sell: 20
+        buy: 40
+        sell: 12
         displayname: '&dMadera de Cerezo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -67,15 +67,15 @@ pages:
         - '&7Categoría: &fBloques 1.20'
       '13':
         material: STRIPPED_CHERRY_LOG
-        buy: 80
-        sell: 20
+        buy: 40
+        sell: 12
         displayname: '&dTronco de Cerezo Descascarado'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -84,15 +84,15 @@ pages:
         - '&7Categoría: &fBloques 1.20'
       '14':
         material: STRIPPED_CHERRY_WOOD
-        buy: 80
-        sell: 20
+        buy: 40
+        sell: 12
         displayname: '&dMadera de Cerezo Descascarada'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -101,15 +101,15 @@ pages:
         - '&7Categoría: &fBloques 1.20'
       '15':
         material: CHERRY_PLANKS
-        buy: 80
-        sell: 20
+        buy: 18
+        sell: 5
         displayname: '&dTablones de Cerezo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$18 &6⛃'
+        - '&fVenta &e$5 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -119,14 +119,14 @@ pages:
       '16':
         material: BAMBOO_BLOCK
         buy: 60
-        sell: 15
+        sell: 18
         displayname: '&eBloque de Bambú'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$60 &6⛃'
-        - '&fVenta &e$15 &6⛃'
+        - '&fVenta &e$18 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -135,15 +135,15 @@ pages:
         - '&7Categoría: &fBloques 1.20'
       '17':
         material: STRIPPED_BAMBOO_BLOCK
-        buy: 80
-        sell: 20
+        buy: 60
+        sell: 18
         displayname: '&eBambú Descascarado'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$60 &6⛃'
+        - '&fVenta &e$18 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -158,15 +158,15 @@ pages:
         displayname: ''
       '20':
         material: BAMBOO_PLANKS
-        buy: 80
-        sell: 20
+        buy: 20
+        sell: 6
         displayname: '&eTablones de Bambú'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$20 &6⛃'
+        - '&fVenta &e$6 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -175,15 +175,15 @@ pages:
         - '&7Categoría: &fBloques 1.20'
       '21':
         material: CHISELED_BOOKSHELF
-        buy: 100
-        sell: 25
+        buy: 180
+        sell: 54
         displayname: '&6Estantería Cincelada'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100 &6⛃'
-        - '&fVenta &e$25 &6⛃'
+        - '&fCompra &a$180 &6⛃'
+        - '&fVenta &e$54 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -193,14 +193,14 @@ pages:
       '22':
         material: CHERRY_HANGING_SIGN
         buy: 120
-        sell: 30
+        sell: 36
         displayname: '&dLetrero Colgante de Cerezo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$120 &6⛃'
-        - '&fVenta &e$30 &6⛃'
+        - '&fVenta &e$36 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -209,15 +209,15 @@ pages:
         - '&7Categoría: &fBloques 1.20'
       '23':
         material: CALIBRATED_SCULK_SENSOR
-        buy: 200
-        sell: 50
+        buy: 250
+        sell: 75
         displayname: '&9Sensor Sculk Calibrado'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200 &6⛃'
-        - '&fVenta &e$50 &6⛃'
+        - '&fCompra &a$250 &6⛃'
+        - '&fVenta &e$75 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -227,14 +227,14 @@ pages:
       '24':
         material: DECORATED_POT
         buy: 90
-        sell: 20
+        sell: 27
         displayname: '&fOlla Decorativa'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$90 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fVenta &e$27 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -243,15 +243,15 @@ pages:
         - '&7Categoría: &fBloques 1.20'
       '25':
         material: PINK_PETALS
-        buy: 50
-        sell: 12
+        buy: 30
+        sell: 9
         displayname: '&dPétalos Rosas'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$12 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$9 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -261,14 +261,14 @@ pages:
       '26':
         material: TORCHFLOWER
         buy: 150
-        sell: 35
+        sell: 45
         displayname: '&eFlor Antorcha'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$150 &6⛃'
-        - '&fVenta &e$35 &6⛃'
+        - '&fVenta &e$45 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -284,14 +284,14 @@ pages:
       '29':
         material: TORCHFLOWER_SEEDS
         buy: 80
-        sell: 20
+        sell: 24
         displayname: '&eSemillas de Flor Antorcha'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$80 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fVenta &e$24 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -301,14 +301,14 @@ pages:
       '30':
         material: SUSPICIOUS_GRAVEL
         buy: 120
-        sell: 30
+        sell: 36
         displayname: '&8Grava Sospechosa'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$120 &6⛃'
-        - '&fVenta &e$30 &6⛃'
+        - '&fVenta &e$36 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -318,14 +318,14 @@ pages:
       '31':
         material: SUSPICIOUS_SAND
         buy: 120
-        sell: 30
+        sell: 36
         displayname: '&eArena Sospechosa'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$120 &6⛃'
-        - '&fVenta &e$30 &6⛃'
+        - '&fVenta &e$36 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -351,15 +351,15 @@ pages:
         - '&7Categoría: &fBloques 1.20'
       '33':
         material: BAMBOO_RAFT
-        buy: 200
-        sell: 50
+        buy: 100
+        sell: 30
         displayname: '&eBalsa de Bambú'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200 &6⛃'
-        - '&fVenta &e$50 &6⛃'
+        - '&fCompra &a$100 &6⛃'
+        - '&fVenta &e$30 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -371,15 +371,15 @@ pages:
         displayname: ''
       '35':
         material: PIGLIN_HEAD
-        buy: 10000000
-        sell: 250
+        buy: 5000
+        sell: 1500
         displayname: '&6Cabeza de Piglin'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000 &6⛃'
-        - '&fVenta &e$250 &6⛃'
+        - '&fCompra &a$5,000 &6⛃'
+        - '&fVenta &e$1,500 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -395,14 +395,14 @@ pages:
       '38':
         material: SNIFFER_EGG
         buy: 5000
-        sell: 900
+        sell: 1500
         displayname: '&aHuevo de Sniffer'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$5,000 &6⛃'
-        - '&fVenta &e$900 &6⛃'
+        - '&fVenta &e$1,500 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'

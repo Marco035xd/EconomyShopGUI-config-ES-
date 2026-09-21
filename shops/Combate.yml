@@ -50,13 +50,13 @@ pages:
       '12':
         material: RESPAWN_ANCHOR
         displayname: '&fNexo de Reaparición'
-        buy: 15000
+        buy: 2500
         sell: -1
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$15,000 &6⛃'
+        - '&fCompra &a$2,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -82,22 +82,6 @@ pages:
       '14':
         material: CRYING_OBSIDIAN
         displayname: '&fObsidiana Llorosa'
-        buy: 500
-        sell: -1
-        displaylore:
-        - '&7Mercado'
-        - ''
-        - '&a★ Información de precios'
-        - '&fCompra &a$500 &6⛃'
-        - '&fVenta &cNo disponible'
-        - ''
-        - '&b✦ Acciones'
-        - '&fClick &2izq. &fpara &acomprar.'
-        - ''
-        - '&7Categoría: &fCombate'
-      '15':
-        material: ENDER_PEARL
-        displayname: '&fPerla de Ender'
         buy: 350
         sell: -1
         displaylore:
@@ -111,16 +95,32 @@ pages:
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fCombate'
-      '16':
-        material: TOTEM_OF_UNDYING
-        displayname: '&fTótem de Inmortalidad'
-        buy: 10000
+      '15':
+        material: ENDER_PEARL
+        displayname: '&fPerla de Ender'
+        buy: 250
         sell: -1
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000 &6⛃'
+        - '&fCompra &a$250 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fCombate'
+      '16':
+        material: TOTEM_OF_UNDYING
+        displayname: '&fTótem de Inmortalidad'
+        buy: 7500
+        sell: -1
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$7,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -130,13 +130,13 @@ pages:
       '17':
         material: END_CRYSTAL
         displayname: '&fCristal del End'
-        buy: 8000
+        buy: 1200
         sell: -1
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$8,000 &6⛃'
+        - '&fCompra &a$1,200 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -152,13 +152,13 @@ pages:
       '20':
         material: GOLDEN_APPLE
         displayname: '&fManzana Dorada'
-        buy: 1000
+        buy: 4000
         sell: -1
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000 &6⛃'
+        - '&fCompra &a$4,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -168,13 +168,13 @@ pages:
       '21':
         material: ENCHANTED_GOLDEN_APPLE
         displayname: '&fManzana Dorada Encantada'
-        buy: 1000000
+        buy: 50000
         sell: -1
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$50,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'

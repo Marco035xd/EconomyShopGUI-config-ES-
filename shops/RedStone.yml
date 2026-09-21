@@ -33,15 +33,15 @@ pages:
         displayname: ''
       '11':
         material: REDSTONE
-        buy: 16
-        sell: 3
+        buy: 30
+        sell: 9
         displayname: '&fPolvo de redstone'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$16 &6⛃'
-        - '&fVenta &e$3 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$9 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -50,14 +50,14 @@ pages:
         - '&7Categoría: &fRedStone'
       '12':
         material: REDSTONE_BLOCK
-        buy: 1000000
+        buy: 250
         sell: -1
         displayname: '&fBloque de redstone'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$250 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -66,57 +66,9 @@ pages:
         - '&7Categoría: &fRedStone'
       '13':
         material: REDSTONE_TORCH
-        buy: 25
-        sell: -1
-        displayname: '&fAntorcha de redstone'
-        displaylore:
-        - '&7Mercado'
-        - ''
-        - '&a★ Información de precios'
-        - '&fCompra &a$25 &6⛃'
-        - '&fVenta &cNo disponible'
-        - ''
-        - '&b✦ Acciones'
-        - '&fClick &2izq. &fpara &acomprar.'
-        - ''
-        - '&7Categoría: &fRedStone'
-      '14':
-        material: REPEATER
-        buy: 120
-        sell: -1
-        displayname: '&fRepetidor de redstone'
-        displaylore:
-        - '&7Mercado'
-        - ''
-        - '&a★ Información de precios'
-        - '&fCompra &a$120 &6⛃'
-        - '&fVenta &cNo disponible'
-        - ''
-        - '&b✦ Acciones'
-        - '&fClick &2izq. &fpara &acomprar.'
-        - ''
-        - '&7Categoría: &fRedStone'
-      '15':
-        material: COMPARATOR
-        buy: 180
-        sell: -1
-        displayname: '&fComparador de redstone'
-        displaylore:
-        - '&7Mercado'
-        - ''
-        - '&a★ Información de precios'
-        - '&fCompra &a$180 &6⛃'
-        - '&fVenta &cNo disponible'
-        - ''
-        - '&b✦ Acciones'
-        - '&fClick &2izq. &fpara &acomprar.'
-        - ''
-        - '&7Categoría: &fRedStone'
-      '16':
-        material: LEVER
         buy: 20
         sell: -1
-        displayname: '&fPalanca'
+        displayname: '&fAntorcha de redstone'
         displaylore:
         - '&7Mercado'
         - ''
@@ -128,16 +80,64 @@ pages:
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fRedStone'
+      '14':
+        material: REPEATER
+        buy: 100
+        sell: -1
+        displayname: '&fRepetidor de redstone'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fRedStone'
+      '15':
+        material: COMPARATOR
+        buy: 150
+        sell: -1
+        displayname: '&fComparador de redstone'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$150 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fRedStone'
+      '16':
+        material: LEVER
+        buy: 15
+        sell: -1
+        displayname: '&fPalanca'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$15 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fRedStone'
       '17':
         material: STONE_BUTTON
-        buy: 15
+        buy: 10
         sell: -1
         displayname: '&fBotón de piedra'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$15 &6⛃'
+        - '&fCompra &a$10 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -152,14 +152,14 @@ pages:
         displayname: ''
       '20':
         material: STONE_PRESSURE_PLATE
-        buy: 25
+        buy: 20
         sell: -1
         displayname: '&fPlaca de presión de piedra'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$25 &6⛃'
+        - '&fCompra &a$20 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -168,14 +168,14 @@ pages:
         - '&7Categoría: &fRedStone'
       '21':
         material: LIGHT_WEIGHTED_PRESSURE_PLATE
-        buy: 11000
+        buy: 950
         sell: -1
         displayname: '&fPlaca de presión ligera'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$11,000 &6⛃'
+        - '&fCompra &a$950 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -184,14 +184,14 @@ pages:
         - '&7Categoría: &fRedStone'
       '22':
         material: HEAVY_WEIGHTED_PRESSURE_PLATE
-        buy: 2200
+        buy: 650
         sell: -1
         displayname: '&fPlaca de presión pesada'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$2,200 &6⛃'
+        - '&fCompra &a$650 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -200,14 +200,14 @@ pages:
         - '&7Categoría: &fRedStone'
       '23':
         material: PISTON
-        buy: 1250
+        buy: 500
         sell: -1
         displayname: '&fPistón'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,250 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -216,14 +216,14 @@ pages:
         - '&7Categoría: &fRedStone'
       '24':
         material: STICKY_PISTON
-        buy: 1800
+        buy: 650
         sell: -1
         displayname: '&fPistón pegajoso'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,800 &6⛃'
+        - '&fCompra &a$650 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -232,14 +232,14 @@ pages:
         - '&7Categoría: &fRedStone'
       '25':
         material: OBSERVER
-        buy: 175
+        buy: 180
         sell: -1
         displayname: '&fObservador'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$175 &6⛃'
+        - '&fCompra &a$180 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -270,74 +270,9 @@ pages:
         displayname: ''
       '29':
         material: DISPENSER
-        buy: 26000
-        sell: -1
-        displayname: '&fDispensador'
-        displaylore:
-        - '&7Mercado'
-        - ''
-        - '&a★ Información de precios'
-        - '&fCompra &a$26,000 &6⛃'
-        - '&fVenta &cNo disponible'
-        - ''
-        - '&b✦ Acciones'
-        - '&fClick &2izq. &fpara &acomprar.'
-        - ''
-        - '&7Categoría: &fRedStone'
-      '30':
-        material: HOPPER
-        buy: 50
-        sell: -1
-        displayname: '&fTolva'
-        displaylore:
-        - '&7Mercado'
-        - ''
-        - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &cNo disponible'
-        - ''
-        - '&b✦ Acciones'
-        - '&fClick &2izq. &fpara &acomprar.'
-        - ''
-        - '&7Categoría: &fRedStone'
-      '31':
-        material: REDSTONE_LAMP
-        buy: 50
-        sell: 3
-        displayname: '&fLámpara de redstone'
-        displaylore:
-        - '&7Mercado'
-        - ''
-        - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
-        - '&fVenta &e$3 &6⛃'
-        - ''
-        - '&b✦ Acciones'
-        - '&fClick &2izq. &fpara &acomprar.'
-        - '&fClick &6der. &fpara &evender.'
-        - ''
-        - '&7Categoría: &fRedStone'
-      '32':
-        material: TARGET
-        buy: 200
-        sell: -1
-        displayname: '&fDiana'
-        displaylore:
-        - '&7Mercado'
-        - ''
-        - '&a★ Información de precios'
-        - '&fCompra &a$200 &6⛃'
-        - '&fVenta &cNo disponible'
-        - ''
-        - '&b✦ Acciones'
-        - '&fClick &2izq. &fpara &acomprar.'
-        - ''
-        - '&7Categoría: &fRedStone'
-      '33':
-        material: DAYLIGHT_DETECTOR
         buy: 350
         sell: -1
-        displayname: '&fSensor de luz solar'
+        displayname: '&fDispensador'
         displaylore:
         - '&7Mercado'
         - ''
@@ -349,16 +284,81 @@ pages:
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fRedStone'
+      '30':
+        material: HOPPER
+        buy: 1700
+        sell: -1
+        displayname: '&fTolva'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$1,700 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fRedStone'
+      '31':
+        material: REDSTONE_LAMP
+        buy: 120
+        sell: 36
+        displayname: '&fLámpara de redstone'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$120 &6⛃'
+        - '&fVenta &e$36 &6⛃'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - '&fClick &6der. &fpara &evender.'
+        - ''
+        - '&7Categoría: &fRedStone'
+      '32':
+        material: TARGET
+        buy: 100
+        sell: -1
+        displayname: '&fDiana'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$100 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fRedStone'
+      '33':
+        material: DAYLIGHT_DETECTOR
+        buy: 300
+        sell: -1
+        displayname: '&fSensor de luz solar'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información de precios'
+        - '&fCompra &a$300 &6⛃'
+        - '&fVenta &cNo disponible'
+        - ''
+        - '&b✦ Acciones'
+        - '&fClick &2izq. &fpara &acomprar.'
+        - ''
+        - '&7Categoría: &fRedStone'
       '34':
         material: TRIPWIRE_HOOK
-        buy: 600
+        buy: 80
         sell: -1
         displayname: '&fGancho de cuerda'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$600 &6⛃'
+        - '&fCompra &a$80 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -367,14 +367,14 @@ pages:
         - '&7Categoría: &fRedStone'
       '35':
         material: NOTE_BLOCK
-        buy: 2500
+        buy: 180
         sell: -1
         displayname: '&fBloque musical'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$2,500 &6⛃'
+        - '&fCompra &a$180 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -389,14 +389,14 @@ pages:
         displayname: ''
       '38':
         material: IRON_DOOR
-        buy: 10000
+        buy: 650
         sell: -1
         displayname: '&fPuerta de hierro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000 &6⛃'
+        - '&fCompra &a$650 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -405,14 +405,14 @@ pages:
         - '&7Categoría: &fRedStone'
       '39':
         material: IRON_TRAPDOOR
-        buy: 4500
+        buy: 1200
         sell: -1
         displayname: '&fTrampilla de hierro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$4,500 &6⛃'
+        - '&fCompra &a$1,200 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -421,14 +421,14 @@ pages:
         - '&7Categoría: &fRedStone'
       '40':
         material: RAIL
-        buy: 450
+        buy: 120
         sell: -1
         displayname: '&fRaíl'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$450 &6⛃'
+        - '&fCompra &a$120 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -437,14 +437,14 @@ pages:
         - '&7Categoría: &fRedStone'
       '41':
         material: POWERED_RAIL
-        buy: 5500
+        buy: 500
         sell: -1
         displayname: '&fRaíl propulsor'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$5,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -453,14 +453,14 @@ pages:
         - '&7Categoría: &fRedStone'
       '42':
         material: DETECTOR_RAIL
-        buy: 1150
+        buy: 150
         sell: -1
         displayname: '&fRaíl detector'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,150 &6⛃'
+        - '&fCompra &a$150 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -469,14 +469,14 @@ pages:
         - '&7Categoría: &fRedStone'
       '43':
         material: ACTIVATOR_RAIL
-        buy: 1100
+        buy: 120
         sell: -1
         displayname: '&fRaíl activador'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,100 &6⛃'
+        - '&fCompra &a$120 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -485,14 +485,14 @@ pages:
         - '&7Categoría: &fRedStone'
       '44':
         material: TNT
-        buy: 32000
+        buy: 650
         sell: -1
         displayname: '&fTNT'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$32,000 &6⛃'
+        - '&fCompra &a$650 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'

@@ -33,15 +33,15 @@ pages:
         displayname: ''
       '11':
         material: ROTTEN_FLESH
-        buy: 900
-        sell: 20
+        buy: 30
+        sell: 8
         displayname: '&fCarne podrida'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$900 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$8 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -50,15 +50,15 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '12':
         material: GUNPOWDER
-        buy: 6200
-        sell: 20
+        buy: 120
+        sell: 35
         displayname: '&fPólvora'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$6,200 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$120 &6⛃'
+        - '&fVenta &e$35 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -67,13 +67,13 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '13':
         material: ENDER_PEARL
-        buy: 370000
+        buy: 250
         displayname: '&fPerla de ender'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$370,000 &6⛃'
+        - '&fCompra &a$250 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -84,14 +84,14 @@ pages:
       '14':
         material: SPIDER_EYE
         buy: 40
-        sell: 20
+        sell: 12
         displayname: '&fOjo de araña'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
         - '&fCompra &a$40 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -100,13 +100,13 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '15':
         material: STRING
-        buy: 100
+        buy: 40
         displayname: '&fHilo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100 &6⛃'
+        - '&fCompra &a$40 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -116,13 +116,13 @@ pages:
         sell: -1
       '16':
         material: ARROW
-        buy: 50
+        buy: 10
         displayname: '&fFlecha'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
+        - '&fCompra &a$10 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -132,15 +132,15 @@ pages:
         sell: -1
       '17':
         material: BONE
-        buy: 1200
-        sell: 20
+        buy: 40
+        sell: 12
         displayname: '&fHueso'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,200 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$40 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -155,15 +155,15 @@ pages:
         displayname: ''
       '20':
         material: SLIME_BALL
-        buy: 500
-        sell: 20
+        buy: 120
+        sell: 30
         displayname: '&fSlime'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$500 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$120 &6⛃'
+        - '&fVenta &e$30 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -172,15 +172,15 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '21':
         material: BLAZE_ROD
-        buy: 620000
-        sell: 20
+        buy: 350
+        sell: 100
         displayname: '&fVara de blaze'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$620,000 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$350 &6⛃'
+        - '&fVenta &e$100 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -189,15 +189,15 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '22':
         material: GHAST_TEAR
-        buy: 500000
-        sell: 20
+        buy: 500
+        sell: 150
         displayname: '&fLágrima de ghast'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$500,000 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$500 &6⛃'
+        - '&fVenta &e$150 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -206,15 +206,15 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '23':
         material: MAGMA_CREAM
-        buy: 500
-        sell: 20
+        buy: 150
+        sell: 45
         displayname: '&fCrema de magma'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$500 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$150 &6⛃'
+        - '&fVenta &e$45 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -223,15 +223,15 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '24':
         material: PHANTOM_MEMBRANE
-        buy: 500
-        sell: 20
+        buy: 350
+        sell: 100
         displayname: '&fMembrana de phantom'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$500 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$350 &6⛃'
+        - '&fVenta &e$100 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -240,15 +240,15 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '26':
         material: SHULKER_SHELL
-        buy: 750000000
-        sell: 20
+        buy: 1500
+        sell: 450
         displayname: '&fCaparazón de shulker'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$750,000,000 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$1,500 &6⛃'
+        - '&fVenta &e$450 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -257,15 +257,15 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '27':
         material: SCUTE
-        buy: 350000
-        sell: 20
+        buy: 500
+        sell: 150
         displayname: '&fEscama de tortuga'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$350,000 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$500 &6⛃'
+        - '&fVenta &e$150 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -280,15 +280,15 @@ pages:
         displayname: ''
       '30':
         material: NAUTILUS_SHELL
-        buy: 500000
-        sell: 20
+        buy: 500
+        sell: 150
         displayname: '&fConcha de nautilus'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$500,000 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$500 &6⛃'
+        - '&fVenta &e$150 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -297,13 +297,13 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '31':
         material: HEART_OF_THE_SEA
-        buy: 3000000
+        buy: 5000
         displayname: '&fCorazón del mar'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$3,000,000 &6⛃'
+        - '&fCompra &a$5,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -313,15 +313,15 @@ pages:
         sell: -1
       '32':
         material: LEATHER
-        buy: 1200
-        sell: 20
+        buy: 80
+        sell: 25
         displayname: '&fCuero'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,200 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$80 &6⛃'
+        - '&fVenta &e$25 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -330,15 +330,15 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '33':
         material: RABBIT_HIDE
-        buy: 1800
-        sell: 20
+        buy: 60
+        sell: 18
         displayname: '&fPiel de conejo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,800 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$60 &6⛃'
+        - '&fVenta &e$18 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -347,15 +347,15 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '34':
         material: RABBIT_FOOT
-        buy: 500
-        sell: 20
+        buy: 250
+        sell: 75
         displayname: '&fPata de conejo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$500 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$250 &6⛃'
+        - '&fVenta &e$75 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -364,15 +364,15 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '35':
         material: FEATHER
-        buy: 1800
-        sell: 20
+        buy: 30
+        sell: 8
         displayname: '&fPluma'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,800 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$30 &6⛃'
+        - '&fVenta &e$8 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -381,14 +381,14 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '36':
         material: EGG
-        buy: 400
+        buy: 60
         sell: 20
         displayname: '&fHuevo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$400 &6⛃'
+        - '&fCompra &a$60 &6⛃'
         - '&fVenta &e$20 &6⛃'
         - ''
         - '&b✦ Acciones'
@@ -404,15 +404,15 @@ pages:
         displayname: ''
       '39':
         material: WHITE_WOOL
-        buy: 100
-        sell: 10
+        buy: 50
+        sell: 15
         displayname: '&fLana blanca'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100 &6⛃'
-        - '&fVenta &e$10 &6⛃'
+        - '&fCompra &a$50 &6⛃'
+        - '&fVenta &e$15 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -421,13 +421,13 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '40':
         material: PRISMARINE_SHARD
-        buy: 800
+        buy: 75
         displayname: '&fFragmento de prismarina'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$800 &6⛃'
+        - '&fCompra &a$75 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -437,13 +437,13 @@ pages:
         sell: -1
       '41':
         material: PRISMARINE_CRYSTALS
-        buy: 1500
+        buy: 100
         displayname: '&fCristales de prismarina'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$100 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -453,15 +453,15 @@ pages:
         sell: -1
       '42':
         material: GOLD_NUGGET
-        buy: 90
-        sell: 20
+        buy: 45
+        sell: 12
         displayname: '&fPepita de oro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$90 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$45 &6⛃'
+        - '&fVenta &e$12 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -470,15 +470,15 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '43':
         material: WIND_CHARGE
-        buy: 2500
-        sell: 20
+        buy: 120
+        sell: 35
         displayname: '&fCarga de viento'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$2,500 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$120 &6⛃'
+        - '&fVenta &e$35 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -487,15 +487,15 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '44':
         material: SCULK_CATALYST
-        buy: 200
-        sell: 20
+        buy: 250
+        sell: 75
         displayname: '&fCatalizador de sculk'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$250 &6⛃'
+        - '&fVenta &e$75 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
@@ -504,15 +504,15 @@ pages:
         - '&7Categoría: &fBotín de Criaturas'
       '45':
         material: BREEZE_ROD
-        buy: 2500
-        sell: 20
+        buy: 500
+        sell: 150
         displayname: '&fBarra de breeze'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$2,500 &6⛃'
-        - '&fVenta &e$20 &6⛃'
+        - '&fCompra &a$500 &6⛃'
+        - '&fVenta &e$150 &6⛃'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'

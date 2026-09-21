@@ -33,13 +33,13 @@ pages:
         displayname: ''
       '11':
         material: NETHERITE_PICKAXE
-        buy: 150000000
+        buy: 18000
         displayname: '&fPico de Netherite'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$150,000,000 &6⛃'
+        - '&fCompra &a$18,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -49,13 +49,13 @@ pages:
         sell: -1
       '12':
         material: DIAMOND_PICKAXE
-        buy: 50000000
+        buy: 5200
         displayname: '&fPico de Diamante'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50,000,000 &6⛃'
+        - '&fCompra &a$5,200 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -70,14 +70,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$150,000,000 &6⛃'
+        - '&fCompra &a$1,100 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 150000000
+        buy: 1100
         sell: -1
       '14':
         material: GOLDEN_PICKAXE
@@ -86,14 +86,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$150,000,000 &6⛃'
+        - '&fCompra &a$1,600 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 150000000
+        buy: 1600
         sell: -1
       '15':
         material: STONE_PICKAXE
@@ -102,14 +102,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$150,000,000 &6⛃'
+        - '&fCompra &a$60 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 150000000
+        buy: 60
         sell: -1
       '16':
         material: GRAY_STAINED_GLASS_PANE
@@ -117,12 +117,12 @@ pages:
       '17':
         material: LEAD
         displayname: '&fCuerda'
-        buy: 200000
+        buy: 150
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$150 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -143,14 +143,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$18,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 18000
         sell: -1
       '21':
         material: DIAMOND_AXE
@@ -159,14 +159,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$5,200 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 5200
         sell: -1
       '22':
         material: IRON_AXE
@@ -175,14 +175,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$1,100 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 1100
         sell: -1
       '23':
         material: GOLDEN_AXE
@@ -191,14 +191,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$1,600 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 1600
         sell: -1
       '24':
         material: STONE_AXE
@@ -207,14 +207,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$60 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 60
         sell: -1
       '25':
         material: GRAY_STAINED_GLASS_PANE
@@ -226,14 +226,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$350 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 350
         sell: -1
       '27':
         material: GRAY_STAINED_GLASS_PANE
@@ -248,14 +248,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$14,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 14000
         sell: -1
       '30':
         material: DIAMOND_SHOVEL
@@ -264,14 +264,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$1,800 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 1800
         sell: -1
       '31':
         material: IRON_SHOVEL
@@ -280,14 +280,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$400 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 400
         sell: -1
       '32':
         material: GOLDEN_SHOVEL
@@ -296,14 +296,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$550 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 550
         sell: -1
       '33':
         material: STONE_SHOVEL
@@ -312,14 +312,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$25 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 25
         sell: -1
       '34':
         material: GRAY_STAINED_GLASS_PANE
@@ -331,14 +331,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$120 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 120
         sell: -1
       '36':
         material: GRAY_STAINED_GLASS_PANE
@@ -353,14 +353,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$15,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 15000
         sell: -1
       '39':
         material: DIAMOND_HOE
@@ -369,14 +369,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 3500
         sell: -1
       '40':
         material: IRON_HOE
@@ -385,14 +385,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$750 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 750
         sell: -1
       '41':
         material: GOLDEN_HOE
@@ -401,14 +401,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$1,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 1000
         sell: -1
       '42':
         material: STONE_HOE
@@ -417,14 +417,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$50 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 50
         sell: -1
       '43':
         material: GRAY_STAINED_GLASS_PANE
@@ -436,14 +436,14 @@ pages:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$200,000 &6⛃'
+        - '&fCompra &a$650 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
         - '&fClick &2izq. &fpara &acomprar.'
         - ''
         - '&7Categoría: &fHerramientas'
-        buy: 200000
+        buy: 650
         sell: -1
       '45':
         material: GRAY_STAINED_GLASS_PANE

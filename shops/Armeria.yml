@@ -36,13 +36,13 @@ pages:
         displayname: ''
       '12':
         material: NETHERITE_HELMET
-        buy: 1000000000
+        buy: 30000
         displayname: '&fYelmo de Netherite'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000,000 &6⛃'
+        - '&fCompra &a$30,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -52,13 +52,13 @@ pages:
         sell: -1
       '13':
         material: DIAMOND_HELMET
-        buy: 100000000
+        buy: 7500
         displayname: '&fYelmo de Diamante'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000,000 &6⛃'
+        - '&fCompra &a$7,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -68,13 +68,13 @@ pages:
         sell: -1
       '14':
         material: IRON_HELMET
-        buy: 10000000
+        buy: 1600
         displayname: '&fYelmo de Hierro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000 &6⛃'
+        - '&fCompra &a$1,600 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -84,13 +84,13 @@ pages:
         sell: -1
       '15':
         material: CHAINMAIL_HELMET
-        buy: 1000000
+        buy: 1000
         displayname: '&fYelmo de Cota de Malla'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$1,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -100,13 +100,13 @@ pages:
         sell: -1
       '16':
         material: LEATHER_HELMET
-        buy: 10000
+        buy: 250
         displayname: '&fYelmo de Cuero'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000 &6⛃'
+        - '&fCompra &a$250 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -128,13 +128,13 @@ pages:
         displayname: ''
       '21':
         material: NETHERITE_CHESTPLATE
-        buy: 1000000000
+        buy: 45000
         displayname: '&fPechera de Netherite'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000,000 &6⛃'
+        - '&fCompra &a$45,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -144,13 +144,13 @@ pages:
         sell: -1
       '22':
         material: DIAMOND_CHESTPLATE
-        buy: 100000000
+        buy: 12000
         displayname: '&fPechera de Diamante'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000,000 &6⛃'
+        - '&fCompra &a$12,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -160,13 +160,13 @@ pages:
         sell: -1
       '23':
         material: IRON_CHESTPLATE
-        buy: 10000000
+        buy: 2500
         displayname: '&fPechera de Hierro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000 &6⛃'
+        - '&fCompra &a$2,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -176,13 +176,13 @@ pages:
         sell: -1
       '24':
         material: CHAINMAIL_CHESTPLATE
-        buy: 100000
+        buy: 1600
         displayname: '&fPechera de Cota de Malla'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000 &6⛃'
+        - '&fCompra &a$1,600 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -192,13 +192,13 @@ pages:
         sell: -1
       '25':
         material: LEATHER_CHESTPLATE
-        buy: 10000
+        buy: 400
         displayname: '&fTunica de Cuero'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000 &6⛃'
+        - '&fCompra &a$400 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -220,13 +220,13 @@ pages:
         displayname: ''
       '30':
         material: NETHERITE_LEGGINGS
-        buy: 1000000000
+        buy: 40000
         displayname: '&fPantalón de Netherite'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000,000 &6⛃'
+        - '&fCompra &a$40,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -236,13 +236,13 @@ pages:
         sell: -1
       '31':
         material: DIAMOND_LEGGINGS
-        buy: 100000000
+        buy: 10500
         displayname: '&fPantalón de Diamante'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000,000 &6⛃'
+        - '&fCompra &a$10,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -252,13 +252,13 @@ pages:
         sell: -1
       '32':
         material: IRON_LEGGINGS
-        buy: 10000000
+        buy: 2200
         displayname: '&fPantalón de Hierro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000 &6⛃'
+        - '&fCompra &a$2,200 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -268,13 +268,13 @@ pages:
         sell: -1
       '33':
         material: CHAINMAIL_LEGGINGS
-        buy: 100000
+        buy: 1400
         displayname: '&fPantalón de Malla'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000 &6⛃'
+        - '&fCompra &a$1,400 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -284,13 +284,13 @@ pages:
         sell: -1
       '34':
         material: LEATHER_LEGGINGS
-        buy: 10000
+        buy: 350
         displayname: '&fPantalón de Cuero'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000 &6⛃'
+        - '&fCompra &a$350 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -312,13 +312,13 @@ pages:
         displayname: ''
       '40':
         material: NETHERITE_BOOTS
-        buy: 1000000000
+        buy: 25000
         displayname: '&fBotas de Netherite'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000,000 &6⛃'
+        - '&fCompra &a$25,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -328,13 +328,13 @@ pages:
         sell: -1
       '41':
         material: DIAMOND_BOOTS
-        buy: 100000000
+        buy: 6000
         displayname: '&fBotas de Diamante'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000,000 &6⛃'
+        - '&fCompra &a$6,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -344,13 +344,13 @@ pages:
         sell: -1
       '42':
         material: IRON_BOOTS
-        buy: 10000000
+        buy: 1300
         displayname: '&fBotas de Hierro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000,000 &6⛃'
+        - '&fCompra &a$1,300 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -360,13 +360,13 @@ pages:
         sell: -1
       '44':
         material: CHAINMAIL_BOOTS
-        buy: 100000
+        buy: 850
         displayname: '&fBotas de Malla'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000 &6⛃'
+        - '&fCompra &a$850 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -376,13 +376,13 @@ pages:
         sell: -1
       '45':
         material: LEATHER_BOOTS
-        buy: 10000
+        buy: 200
         displayname: '&fBotas de Cuero'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000 &6⛃'
+        - '&fCompra &a$200 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -430,13 +430,13 @@ pages:
         displayname: ''
       '11':
         material: BOW
-        buy: 25000
+        buy: 250
         displayname: '&fArco'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$25,000 &6⛃'
+        - '&fCompra &a$250 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -446,13 +446,13 @@ pages:
         sell: -1
       '12':
         material: CROSSBOW
-        buy: 50000
+        buy: 400
         displayname: '&fBallesta'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50,000 &6⛃'
+        - '&fCompra &a$400 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -462,13 +462,13 @@ pages:
         sell: -1
       '13':
         material: ARROW
-        buy: 25
+        buy: 10
         displayname: '&fFlechas'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$25 &6⛃'
+        - '&fCompra &a$10 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -496,13 +496,13 @@ pages:
         displayname: ''
       '20':
         material: NETHERITE_SWORD
-        buy: 100000000
+        buy: 16000
         displayname: '&fEspada de Netherite'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000,000 &6⛃'
+        - '&fCompra &a$16,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -512,13 +512,13 @@ pages:
         sell: -1
       '21':
         material: DIAMOND_SWORD
-        buy: 50000
+        buy: 3500
         displayname: '&fEspada de Diamante'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50,000 &6⛃'
+        - '&fCompra &a$3,500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -528,13 +528,13 @@ pages:
         sell: -1
       '22':
         material: IRON_SWORD
-        buy: 50000
+        buy: 750
         displayname: '&fEspada de Hierro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50,000 &6⛃'
+        - '&fCompra &a$750 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -544,13 +544,13 @@ pages:
         sell: -1
       '23':
         material: GOLDEN_SWORD
-        buy: 20000
+        buy: 1100
         displayname: '&fEspada de Oro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$20,000 &6⛃'
+        - '&fCompra &a$1,100 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -560,13 +560,13 @@ pages:
         sell: -1
       '24':
         material: STONE_SWORD
-        buy: 10000
+        buy: 50
         displayname: '&fEspada de Piedra'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$10,000 &6⛃'
+        - '&fCompra &a$50 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -588,13 +588,13 @@ pages:
         displayname: ''
       '29':
         material: SPYGLASS
-        buy: 50000
+        buy: 150
         displayname: '&fCatalejo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50,000 &6⛃'
+        - '&fCompra &a$150 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -604,13 +604,13 @@ pages:
         sell: -1
       '30':
         material: ELYTRA
-        buy: 50000000
+        buy: 75000
         displayname: '&fElytras'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50,000,000 &6⛃'
+        - '&fCompra &a$75,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -641,13 +641,13 @@ pages:
         displayname: ''
       '38':
         material: TRIDENT
-        buy: 50000000
+        buy: 30000
         displayname: '&fTridente'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50,000,000 &6⛃'
+        - '&fCompra &a$30,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'

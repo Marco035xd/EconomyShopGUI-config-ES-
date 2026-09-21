@@ -580,7 +580,7 @@ match-item-meta: true
 # SHOP_LOAD_ORDER = Items will be loaded in the load order of the shop they are located in(Default)
 # DESCENDING_SELL_PRICE = Sort items from HIGH sell prices to LOW sell prices
 # ASCENDING_SELL_PRICE = Sort items from LOW sell prices to HIGH sell prices
-sort-items-by: SHOP_LOAD_ORDER
+sort-items-by: DESCENDING_SELL_PRICE
 # By default, when set to DESCENDING, items that match each other(or duplicate) are prioritized by the highest sell price when selling them
 # For example when having two similar apples in shop, one sold for 20$ and one sold for 5$, players will sell the apple with the highest price when sold via /sellall or /sellgui
 
@@ -710,6 +710,7 @@ damaged-items:
 # When a tool/armor is damaged it cannot be sold to the server by default, if you add the 'Damage' tag to the list below. A damaged item can be sold to the shop
 sold-items-ignored-NBTtags:
 - 'repair_cost'
+- 'Damage'
 # The 'RepairCost' tag is added by default since all items that get repaired by anvil/mending will get it, if we don't add it to the ignored list, a item repaired will not be able to be sold to the server
 
 # Set the limit for maximum pages inside a shop section, default is 50 but you can expand it to 100 if needed

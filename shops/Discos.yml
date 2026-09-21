@@ -33,13 +33,13 @@ pages:
         displayname: ''
       '11':
         material: MUSIC_DISC_CAT
-        buy: 1000000
+        buy: 8000
         displayname: '&aDisco: Cat'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$8,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -49,13 +49,13 @@ pages:
         sell: -1
       '12':
         material: MUSIC_DISC_BLOCKS
-        buy: 1000000
+        buy: 8000
         displayname: '&cDisco: Blocks'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$8,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -65,13 +65,13 @@ pages:
         sell: -1
       '13':
         material: MUSIC_DISC_CHIRP
-        buy: 1000000
+        buy: 8000
         displayname: '&dDisco: Chirp'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$8,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -81,13 +81,13 @@ pages:
         sell: -1
       '14':
         material: MUSIC_DISC_FAR
-        buy: 1000000
+        buy: 8000
         displayname: '&aDisco: Far'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$8,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -97,13 +97,13 @@ pages:
         sell: -1
       '15':
         material: MUSIC_DISC_MALL
-        buy: 1000000
+        buy: 8000
         displayname: '&dDisco: Mall'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$8,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -113,13 +113,13 @@ pages:
         sell: -1
       '16':
         material: MUSIC_DISC_MELLOHI
-        buy: 1000000
+        buy: 8000
         displayname: '&5Disco: Mellohi'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$8,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -129,13 +129,13 @@ pages:
         sell: -1
       '17':
         material: MUSIC_DISC_STAL
-        buy: 1000000
+        buy: 8000
         displayname: '&8Disco: Stal'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$8,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -151,13 +151,13 @@ pages:
         displayname: ''
       '20':
         material: MUSIC_DISC_STRAD
-        buy: 1000000
+        buy: 8000
         displayname: '&fDisco: Strad'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$8,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -167,13 +167,13 @@ pages:
         sell: -1
       '21':
         material: MUSIC_DISC_WARD
-        buy: 1000000
+        buy: 8000
         displayname: '&2Disco: Ward'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$8,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -183,13 +183,13 @@ pages:
         sell: -1
       '22':
         material: MUSIC_DISC_11
-        buy: 1000000
+        buy: 12000
         displayname: '&7Disco: 11'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$12,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -199,13 +199,13 @@ pages:
         sell: -1
       '23':
         material: MUSIC_DISC_13
-        buy: 1000000
+        buy: 8000
         displayname: '&eDisco: 13'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$8,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -215,13 +215,13 @@ pages:
         sell: -1
       '24':
         material: MUSIC_DISC_WAIT
-        buy: 1000000
+        buy: 10000
         displayname: '&bDisco: Wait'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$10,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -231,13 +231,13 @@ pages:
         sell: -1
       '25':
         material: MUSIC_DISC_PIGSTEP
-        buy: 1000000
+        buy: 30000
         displayname: '&6Disco: Pigstep'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$30,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -247,13 +247,13 @@ pages:
         sell: -1
       '26':
         material: MUSIC_DISC_OTHERSIDE
-        buy: 1000000
+        buy: 25000
         displayname: '&9Disco: Otherside'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$25,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -269,13 +269,13 @@ pages:
         displayname: ''
       '31':
         material: MUSIC_DISC_5
-        buy: 1000000
+        buy: 25000
         displayname: '&cDisco: 5'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$25,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -285,13 +285,13 @@ pages:
         sell: -1
       '32':
         material: MUSIC_DISC_RELIC
-        buy: 1000000
+        buy: 20000
         displayname: '&3Disco: Relic'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$20,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -301,13 +301,13 @@ pages:
         sell: -1
       '33':
         material: MUSIC_DISC_RELIC
-        buy: 1000000
+        buy: 20000
         displayname: '&9Disco: Amos Roddy - Tears'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$20,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -317,13 +317,13 @@ pages:
         sell: -1
       '34':
         material: MUSIC_DISC_5
-        buy: 1000000
+        buy: 25000
         displayname: '&dDisc Fragment - Music Disc - 5'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$25,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -333,13 +333,13 @@ pages:
         sell: -1
       '35':
         material: MUSIC_DISC_OTHERSIDE
-        buy: 1000000
+        buy: 25000
         displayname: '&bDisco: Aaron Cherof - Precipice'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$25,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -349,13 +349,13 @@ pages:
         sell: -1
       '36':
         material: MUSIC_DISC_CREATOR
-        buy: 1000000
+        buy: 35000
         displayname: '&5Disco: Lena Raine - Creator'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,000,000 &6⛃'
+        - '&fCompra &a$35,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'

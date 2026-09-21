@@ -34,14 +34,14 @@ pages:
       '11':
         material: SPAWNER
         spawnertype: IRON_GOLEM
-        buy: 2000000
+        buy: 750000
         sell: -1
         displayname: '&fSpawner de Gólem de Hierro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$2,000,000 &a⛃'
+        - '&8• &fCompra &a$750,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'
@@ -56,14 +56,14 @@ pages:
       '12':
         material: SPAWNER
         spawnertype: SLIME
-        buy: 5000000
+        buy: 250000
         sell: -1
         displayname: '&fSpawner de Slime'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$5,000,000 &a⛃'
+        - '&8• &fCompra &a$250,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'
@@ -78,14 +78,14 @@ pages:
       '13':
         material: SPAWNER
         spawnertype: ZOMBIE
-        buy: 1000000
+        buy: 75000
         sell: -1
         displayname: '&fSpawner de Zombie'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fCompra &a$75,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'
@@ -100,14 +100,14 @@ pages:
       '14':
         material: SPAWNER
         spawnertype: SKELETON
-        buy: 1000000
+        buy: 90000
         sell: -1
         displayname: '&fSpawner de Esqueleto'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fCompra &a$90,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'
@@ -122,14 +122,14 @@ pages:
       '15':
         material: SPAWNER
         spawnertype: SPIDER
-        buy: 1000000
+        buy: 65000
         sell: -1
         displayname: '&fSpawner de Araña'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fCompra &a$65,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'
@@ -144,14 +144,14 @@ pages:
       '16':
         material: SPAWNER
         spawnertype: SHEEP
-        buy: 1000000
+        buy: 100000
         sell: -1
         displayname: '&fSpawner de Oveja'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fCompra &a$100,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'
@@ -166,14 +166,14 @@ pages:
       '17':
         material: SPAWNER
         spawnertype: COW
-        buy: 1000000
+        buy: 120000
         sell: -1
         displayname: '&fSpawner de Vaca'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fCompra &a$120,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'
@@ -194,53 +194,9 @@ pages:
       '20':
         material: SPAWNER
         spawnertype: VILLAGER
-        buy: 1000000000
-        sell: -1
-        displayname: '&fSpawner de Aldeano'
-        displaylore:
-        - '&7Mercado'
-        - ''
-        - '&a★ Información Precios'
-        - '&8• &fCompra &a$1,000,000,000 &a⛃'
-        - '&8• &fVenta &c¡No se puede vender!'
-        - ''
-        - '&b◇ Acciones Compra/Venta'
-        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
-        - '&8• &fClick &eder. &fpara &evender &festo.'
-        - ''
-        - '&7⚠ &f¡Solo manejamos items de calidad!'
-        - ''
-        - '&fInteractúa con un huevo generador:'
-        - '&9Establece el tipo de criatura'
-        - '&9&ominecraft'
-      '21':
-        material: SPAWNER
-        spawnertype: BLAZE
-        buy: 10000000
-        sell: -1
-        displayname: '&fSpawner de Blaze'
-        displaylore:
-        - '&7Mercado'
-        - ''
-        - '&a★ Información Precios'
-        - '&8• &fCompra &a$10,000,000 &a⛃'
-        - '&8• &fVenta &c¡No se puede vender!'
-        - ''
-        - '&b◇ Acciones Compra/Venta'
-        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
-        - '&8• &fClick &eder. &fpara &evender &festo.'
-        - ''
-        - '&7⚠ &f¡Solo manejamos items de calidad!'
-        - ''
-        - '&fInteractúa con un huevo generador:'
-        - '&9Establece el tipo de criatura'
-        - '&9&ominecraft'
-      '22':
-        material: SPAWNER
-        spawnertype: CREEPER
         buy: 1000000
         sell: -1
-        displayname: '&fSpawner de Creeper'
+        displayname: '&fSpawner de Aldeano'
         displaylore:
         - '&7Mercado'
         - ''
@@ -257,17 +213,61 @@ pages:
         - '&fInteractúa con un huevo generador:'
         - '&9Establece el tipo de criatura'
         - '&9&ominecraft'
+      '21':
+        material: SPAWNER
+        spawnertype: BLAZE
+        buy: 350000
+        sell: -1
+        displayname: '&fSpawner de Blaze'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$350,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
+      '22':
+        material: SPAWNER
+        spawnertype: CREEPER
+        buy: 180000
+        sell: -1
+        displayname: '&fSpawner de Creeper'
+        displaylore:
+        - '&7Mercado'
+        - ''
+        - '&a★ Información Precios'
+        - '&8• &fCompra &a$180,000 &a⛃'
+        - '&8• &fVenta &c¡No se puede vender!'
+        - ''
+        - '&b◇ Acciones Compra/Venta'
+        - '&8• &fClick &aizq. &fpara &acomprar &festo.'
+        - '&8• &fClick &eder. &fpara &evender &festo.'
+        - ''
+        - '&7⚠ &f¡Solo manejamos items de calidad!'
+        - ''
+        - '&fInteractúa con un huevo generador:'
+        - '&9Establece el tipo de criatura'
+        - '&9&ominecraft'
       '23':
         material: SPAWNER
         spawnertype: ENDERMAN
-        buy: 2000000
+        buy: 300000
         sell: -1
         displayname: '&fSpawner de Enderman'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$2,000,000 &a⛃'
+        - '&8• &fCompra &a$300,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'
@@ -282,14 +282,14 @@ pages:
       '24':
         material: SPAWNER
         spawnertype: VINDICATOR
-        buy: 100000000
+        buy: 400000
         sell: -1
         displayname: '&fSpawner de Vindicador'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$100,000,000 &a⛃'
+        - '&8• &fCompra &a$400,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'
@@ -304,14 +304,14 @@ pages:
       '25':
         material: SPAWNER
         spawnertype: RAVAGER
-        buy: 100000000
+        buy: 600000
         sell: -1
         displayname: '&fSpawner de Devastador'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$100,000,000 &a⛃'
+        - '&8• &fCompra &a$600,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'
@@ -326,14 +326,14 @@ pages:
       '26':
         material: SPAWNER
         spawnertype: WITHER_SKELETON
-        buy: 100000000
+        buy: 800000
         sell: -1
         displayname: '&fSpawner de Esqueleto del Wither'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$100,000,000 &a⛃'
+        - '&8• &fCompra &a$800,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'
@@ -354,14 +354,14 @@ pages:
       '29':
         material: SPAWNER
         spawnertype: CAT
-        buy: 2000000
+        buy: 125000
         sell: -1
         displayname: '&fSpawner de Gatos'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$2,000,000 &a⛃'
+        - '&8• &fCompra &a$125,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'
@@ -376,14 +376,14 @@ pages:
       '30':
         material: SPAWNER
         spawnertype: HORSE
-        buy: 1000000
+        buy: 150000
         sell: -1
         displayname: '&fSpawner de Caballos'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fCompra &a$150,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'
@@ -398,14 +398,14 @@ pages:
       '31':
         material: SPAWNER
         spawnertype: WOLF
-        buy: 1000000
+        buy: 150000
         sell: -1
         displayname: '&fSpawner de Lobos'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información Precios'
-        - '&8• &fCompra &a$1,000,000 &a⛃'
+        - '&8• &fCompra &a$150,000 &a⛃'
         - '&8• &fVenta &c¡No se puede vender!'
         - ''
         - '&b◇ Acciones Compra/Venta'

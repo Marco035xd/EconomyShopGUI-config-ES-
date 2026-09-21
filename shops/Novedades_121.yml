@@ -33,13 +33,13 @@ pages:
         displayname: ''
       '11':
         material: WHITE_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Blanco'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -49,13 +49,13 @@ pages:
         sell: -1
       '12':
         material: LIGHT_GRAY_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Gris Claro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -65,13 +65,13 @@ pages:
         sell: -1
       '13':
         material: GRAY_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Gris'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -81,13 +81,13 @@ pages:
         sell: -1
       '14':
         material: BLACK_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Negro'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -97,13 +97,13 @@ pages:
         sell: -1
       '15':
         material: RED_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Rojo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -113,13 +113,13 @@ pages:
         sell: -1
       '16':
         material: ORANGE_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Naranja'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -129,13 +129,13 @@ pages:
         sell: -1
       '17':
         material: YELLOW_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Amarillo'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -151,13 +151,13 @@ pages:
         displayname: ''
       '20':
         material: LIME_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Verde Lima'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -167,13 +167,13 @@ pages:
         sell: -1
       '21':
         material: GREEN_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Verde'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -183,13 +183,13 @@ pages:
         sell: -1
       '22':
         material: CYAN_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Cian'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -199,13 +199,13 @@ pages:
         sell: -1
       '23':
         material: BLUE_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Azul'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -215,13 +215,13 @@ pages:
         sell: -1
       '24':
         material: PURPLE_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Morado'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -231,13 +231,13 @@ pages:
         sell: -1
       '25':
         material: MAGENTA_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Magenta'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -247,13 +247,13 @@ pages:
         sell: -1
       '26':
         material: PINK_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Rosado'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -269,13 +269,13 @@ pages:
         displayname: ''
       '29':
         material: BROWN_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Marrón'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -285,13 +285,13 @@ pages:
         sell: -1
       '30':
         material: BROWN_HARNESS
-        buy: 1500
+        buy: 500
         displayname: '&fArnés Marrón'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$1,500 &6⛃'
+        - '&fCompra &a$500 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -349,13 +349,13 @@ pages:
         sell: -1
       '34':
         material: PALE_OAK_LOG
-        buy: 150
+        buy: 40
         displayname: '&fTronco de roble pálido'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$150 &6⛃'
+        - '&fCompra &a$40 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -365,13 +365,13 @@ pages:
         sell: -1
       '35':
         material: PALE_OAK_WOOD
-        buy: 50
+        buy: 40
         displayname: '&fMadera de roble pálido'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
+        - '&fCompra &a$40 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -387,13 +387,13 @@ pages:
         displayname: ''
       '38':
         material: STRIPPED_PALE_OAK_LOG
-        buy: 50
+        buy: 40
         displayname: '&fTronco de roble pálido sin corteza'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
+        - '&fCompra &a$40 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -403,13 +403,13 @@ pages:
         sell: -1
       '39':
         material: STRIPPED_PALE_OAK_WOOD
-        buy: 50
+        buy: 40
         displayname: '&f&fMadera de roble pálido sin corteza'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
+        - '&fCompra &a$40 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -419,13 +419,13 @@ pages:
         sell: -1
       '40':
         material: PALE_OAK_PLANKS
-        buy: 50
+        buy: 18
         displayname: '&fMadera de roble pálido'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
+        - '&fCompra &a$18 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -435,13 +435,13 @@ pages:
         sell: -1
       '41':
         material: PALE_OAK_STAIRS
-        buy: 50
+        buy: 20
         displayname: '&fEscalera de roble pálido'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
+        - '&fCompra &a$20 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -451,13 +451,13 @@ pages:
         sell: -1
       '42':
         material: PALE_OAK_SLAB
-        buy: 50
+        buy: 15
         displayname: '&fLosa de roble pálido'
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$50 &6⛃'
+        - '&fCompra &a$15 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -510,12 +510,12 @@ pages:
         material: GOAT_HORN
         displayname: '&fCuerno de Cabra - &aPonder'
         custom_model_data: 1
-        buy: 100000
+        buy: 5000
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000 &6⛃'
+        - '&fCompra &a$5,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -527,12 +527,12 @@ pages:
         material: GOAT_HORN
         displayname: '&fCuerno de Cabra - &aSing'
         custom_model_data: 2
-        buy: 100000
+        buy: 5000
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000 &6⛃'
+        - '&fCompra &a$5,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -544,12 +544,12 @@ pages:
         material: GOAT_HORN
         displayname: '&fCuerno de Cabra - &aSeek'
         custom_model_data: 3
-        buy: 100000
+        buy: 5000
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000 &6⛃'
+        - '&fCompra &a$5,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -561,12 +561,12 @@ pages:
         material: GOAT_HORN
         displayname: '&fCuerno de Cabra - &aFeel'
         custom_model_data: 4
-        buy: 100000
+        buy: 5000
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000 &6⛃'
+        - '&fCompra &a$5,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -578,12 +578,12 @@ pages:
         material: GOAT_HORN
         displayname: '&fCuerno de Cabra - &aAdmire'
         custom_model_data: 5
-        buy: 100000
+        buy: 5000
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000 &6⛃'
+        - '&fCompra &a$5,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -595,12 +595,12 @@ pages:
         material: GOAT_HORN
         displayname: '&fCuerno de Cabra - &aCall'
         custom_model_data: 6
-        buy: 100000
+        buy: 5000
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000 &6⛃'
+        - '&fCompra &a$5,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -612,12 +612,12 @@ pages:
         material: GOAT_HORN
         displayname: '&fCuerno de Cabra - &aYearn'
         custom_model_data: 7
-        buy: 100000
+        buy: 5000
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000 &6⛃'
+        - '&fCompra &a$5,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
@@ -635,12 +635,12 @@ pages:
         material: GOAT_HORN
         displayname: '&fCuerno de Cabra - &aDream'
         custom_model_data: 8
-        buy: 100000
+        buy: 5000
         displaylore:
         - '&7Mercado'
         - ''
         - '&a★ Información de precios'
-        - '&fCompra &a$100,000 &6⛃'
+        - '&fCompra &a$5,000 &6⛃'
         - '&fVenta &cNo disponible'
         - ''
         - '&b✦ Acciones'
